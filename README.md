@@ -21,6 +21,7 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 > **Disclaimer:**  
 > All questions and problem statements belong to **[LeetCode](https://leetcode.com/)**. This notebook is solely for educational purposes, and all credit and ownership of the questions remain with **[LeetCode](https://leetcode.com/)**.
 
+## LeetCode SQL Questions
 
 **[175. Combine Two Tables (Easy)]()**
 
