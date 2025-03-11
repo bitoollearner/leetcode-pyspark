@@ -23,8 +23,11 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 
 **[175. Combine Two Tables (Easy)]()**
+
 **[176. Second Highest Salary (Med)]()**
+
 **[177. Nth Highest Salary (Med)]()**
+
 **[178. Rank Scores (Med)]()**
 **[180. Consecutive Numbers (Med)]()**
 **[181. Employees Earning More Than Their Managers (Easy)]()**
