@@ -621,5 +621,3 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 **[3465. Find Products with Valid Serial Numbers (Easy)]()**
 
 **[3475. DNA Pattern Recognition (Med)]()**
-
-![image](https://github.com/user-attachments/assets/c7bfc53c-cdb5-4ea0-b47b-abdbab97d3a1)
