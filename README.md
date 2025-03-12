@@ -19,7 +19,7 @@ For each question, you will find:
 All solutions in this notebook are implemented using **PySpark** to ensure consistency with big data processing practices. The approach utilizes **PySpark’s Python API, DataFrame API, and built-in functions** to solve problems efficiently.
 
 > **Disclaimer:**  
-> All questions and problem statements belong to **[LeetCode](https://leetcode.com/)**. This notebook is solely for educational purposes, and all credit and ownership of the questions remain with **[LeetCode](https://leetcode.com/)**.
+> All questions and problem statements belong to **[LeetCode](https://leetcode.com/)**. This notebook is solely for educational purposes, and all credit and ownership of the questions remain with **[LeetCode](https://leetcode.com/)**. For any query reach out at **info.bilearner@gmail.com**.
 
 ## LeetCode SQL Questions
 
