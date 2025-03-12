@@ -23,7 +23,7 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 ## LeetCode SQL Questions
 
-**[175. Combine Two Tables (Easy)]()**
+**[175. Combine Two Tables (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/175.%20Combine%20Two%20Tables%20(Easy).ipynb)**
 
 **[176. Second Highest Salary (Med)]()**
 
