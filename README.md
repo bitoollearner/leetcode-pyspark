@@ -43,25 +43,25 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 **[185. Department Top Three Salaries (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/185.%20Department%20Top%20Three%20Salaries%20(Hard).ipynb)**
 
-**[196. Delete Duplicate Emails (Easy)]()**
+**[196. Delete Duplicate Emails (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/196.%20Delete%20Duplicate%20Emails%20(Easy).ipynb)**
 
-**[197. Rising Temperature (Easy)]()**
+**[197. Rising Temperature (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/197.%20Rising%20Temperature%20(Easy).ipynb)**
 
-**[262. Trips and Users (Hard)]()**
+**[262. Trips and Users (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/262.%20Trips%20and%20Users%20(Hard).ipynb)**
 
-**[511. Game Play Analysis I (Easy)]()**
+**[511. Game Play Analysis I (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/511.%20Game%20Play%20Analysis%20I%20(Easy).ipynb)**
 
-**[512. Game Play Analysis II (Easy)]()**
+**[512. Game Play Analysis II (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/512.%20Game%20Play%20Analysis%20II%20(Easy).ipynb)**
 
-**[534. Game Play Analysis III (Med)]()**
+**[534. Game Play Analysis III (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/534.%20Game%20Play%20Analysis%20III%20(Medium).ipynb)**
 
-**[550. Game Play Analysis IV (Med)]()**
+**[550. Game Play Analysis IV (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/550.%20Game%20Play%20Analysis%20IV(Medium).ipynb)**
 
-**[569. Median Employee Salary (Hard)]()**
+**[569. Median Employee Salary (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/569.%20Median%20Employee%20Salary%20(Hard).ipynb)**
 
-**[570. Managers with at Least 5 Direct Reports (Med)]()**
+**[570. Managers with at Least 5 Direct Reports (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/570.%20Managers%20with%20at%20Least%205%20Direct%20Reports%20(Medium).ipynb)**
 
-**[571. Find Median Given Frequency of Numbers (Hard)]()**
+**[571. Find Median Given Frequency of Numbers (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/571.%20Find%20Median%20Given%20Frequency%20of%20Numbers%20(Hard).ipynb)**
 
 **[574. Winning Candidate (Med)]()**
 
