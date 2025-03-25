@@ -25,23 +25,23 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 **[175. Combine Two Tables (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/175.%20Combine%20Two%20Tables%20(Easy).ipynb)**
 
-**[176. Second Highest Salary (Med)]()**
+**[176. Second Highest Salary (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/176.%20Second%20Highest%20Salary%20(Medium).ipynb)**
 
-**[177. Nth Highest Salary (Med)]()**
+**[177. Nth Highest Salary (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/177.%20Nth%20Highest%20Salary%20(Medium).ipynb)**
 
-**[178. Rank Scores (Med)]()**
+**[178. Rank Scores (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/178.%20Rank%20Scores%20(Medium).ipynb)**
 
-**[180. Consecutive Numbers (Med)]()**
+**[180. Consecutive Numbers (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/180.%20Consecutive%20Numbers%20(Medium).ipynb)**
 
-**[181. Employees Earning More Than Their Managers (Easy)]()**
+**[181. Employees Earning More Than Their Managers (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/181.%20Employees%20Earning%20More%20Than%20Their%20Managers%20(Easy).ipynb)**
 
-**[182. Duplicate Emails (Easy)]()**
+**[182. Duplicate Emails (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/182.%20Duplicate%20Emails%20(Easy).ipynb)**
 
-**[183. Customers Who Never Order (Easy)]()**
+**[183. Customers Who Never Order (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/183.%20Customers%20Who%20Never%20Order%20(Easy).ipynb)**
 
-**[184. Department Highest Salary (Med)]()**
+**[184. Department Highest Salary (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/184.%20Department%20Highest%20Salary%20(Medium).ipynb)**
 
-**[185. Department Top Three Salaries (Hard)]()**
+**[185. Department Top Three Salaries (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/185.%20Department%20Top%20Three%20Salaries%20(Hard).ipynb)**
 
 **[196. Delete Duplicate Emails (Easy)]()**
 
