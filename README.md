@@ -63,25 +63,25 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 **[571. Find Median Given Frequency of Numbers (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/571.%20Find%20Median%20Given%20Frequency%20of%20Numbers%20(Hard).ipynb)**
 
-**[574. Winning Candidate (Med)]()**
+**[574. Winning Candidate (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/574.%20Winning%20Candidate%20(Medium).ipynb)**
 
-**[577. Employee Bonus (Easy)]()**
+**[577. Employee Bonus (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/577.%20Employee%20Bonus%20(Easy).ipynb)**
 
-**[578. Get Highest Answer Rate Question (Med)]()**
+**[578. Get Highest Answer Rate Question (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/578.%20Get%20Highest%20Answer%20Rate%20Question%20(Medium).ipynb)**
 
-**[579. Find Cumulative Salary of an Employee (Hard)]()**
+**[579. Find Cumulative Salary of an Employee (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/579.%20Find%20Cumulative%20Salary%20of%20an%20Employee%20(Hard).ipynb)**
 
-**[580. Count Student Number in Departments (Med)]()**
+**[580. Count Student Number in Departments (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/580.%20Count%20Student%20Number%20in%20Departments%20(Medium).ipynb)**
 
-**[584. Find Customer Referee (Easy)]()**
+**[584. Find Customer Referee (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/584.%20Find%20Customer%20Referee%20(Easy).ipynb)**
 
-**[585. Investments in 2016 (Med)]()**
+**[585. Investments in 2016 (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/585.%20Investments%20in%202016%20(Medium).ipynb)**
 
-**[586. Customer Placing the Largest Number of Orders (Easy)]()**
+**[586. Customer Placing the Largest Number of Orders (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders%20(Easy).ipynb)**
 
-**[595. Big Countries (Easy)]()**
+**[595. Big Countries (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/595.%20Big%20Countries%20(Easy).ipynb)**
 
-**[596. Classes More Than 5 Students (Easy)]()**
+**[596. Classes More Than 5 Students (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/596.%20Classes%20More%20Than%205%20Students%20(Easy).ipynb)**
 
 **[597. Friend Requests I: Overall Acceptance Rate (Easy)]()**
 
