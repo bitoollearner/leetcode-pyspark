@@ -83,25 +83,25 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 **[596. Classes More Than 5 Students (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/596.%20Classes%20More%20Than%205%20Students%20(Easy).ipynb)**
 
-**[597. Friend Requests I: Overall Acceptance Rate (Easy)]()**
+**[597. Friend Requests I: Overall Acceptance Rate (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/597.%20Friend%20Request%20I_%20Overall%20Acceptance%20Rate%20(Easy).ipynb)**
 
-**[601. Human Traffic of Stadium (Hard)]()**
+**[601. Human Traffic of Stadium (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/601.%20Human%20Traffic%20of%20Stadium%20(Hard).ipynb)**
 
-**[602. Friend Requests II: Who Has the Most Friends (Med)]()**
+**[602. Friend Requests II: Who Has the Most Friends (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/602.%20Friend%20Requests%20II_%20Who%20Has%20the%20Most%20Friends%20(Medium).ipynb)**
 
-**[603. Consecutive Available Seats (Easy)]()**
+**[603. Consecutive Available Seats (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/603.%20Consecutive%20Available%20Seats%20(Easy).ipynb)**
 
-**[607. Sales Person (Easy)]()**
+**[607. Sales Person (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/607.%20Sales%20Person%20(Easy).ipynb)**
 
-**[608. Tree Node (Med)]()**
+**[608. Tree Node (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/608.%20Tree%20Node%20(Medium).ipynb)**
 
-**[610. Triangle Judgement (Easy)]()**
+**[610. Triangle Judgement (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/610.%20Triangle%20Judgement%20(Easy).ipynb)**
 
-**[612. Shortest Distance in a Plane (Med)]()**
+**[612. Shortest Distance in a Plane (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/612.%20Shortest%20Distance%20in%20a%20Plane%20(Medium).ipynb)**
 
-**[613. Shortest Distance in a Line (Easy)]()**
+**[613. Shortest Distance in a Line (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/613.%20Shortest%20Distance%20in%20a%20Line%20(Easy).ipynb)**
 
-**[614. Second Degree Follower (Med)]()**
+**[614. Second Degree Follower (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/614.%20Second%20Degree%20Follower%20(Medium).ipynb)**
 
 **[615. Average Salary: Departments VS Company (Hard)]()**
 
