@@ -55,7 +55,7 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 28 | 586. Customer Placing the Largest Number of Orders | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders%20(Easy).ipynb)** | **[…]** | 
  | 29 | 595. Big Countries | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/595.%20Big%20Countries%20(Easy).ipynb)** | **[…]** | 
  | 30 | 596. Classes More Than 5 Students | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/596.%20Classes%20More%20Than%205%20Students%20(Easy).ipynb)** | **[…]** | 
- | 31 | 597. Friend Requests I: Overall Acceptance Rate | Easy | **[…]()** | **[…]** | 
+ | 31 | 597. Friend Requests I: Overall Acceptance Rate | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/597.%20Friend%20Request%20I_%20Overall%20Acceptance%20Rate%20(Easy).ipynb)** | **[…]** | 
  | 32 | 601. Human Traffic of Stadium | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/601.%20Human%20Traffic%20of%20Stadium%20(Hard).ipynb)** | **[…]** | 
  | 33 | 602. Friend Requests II: Who Has the Most Friends | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/602.%20Friend%20Requests%20II_%20Who%20Has%20the%20Most%20Friends%20(Medium).ipynb)** | **[…]** | 
  | 34 | 603. Consecutive Available Seats | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/603.%20Consecutive%20Available%20Seats%20(Easy).ipynb)** | **[…]** | 
