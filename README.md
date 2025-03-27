@@ -23,6 +23,40 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 ## LeetCode SQL Questions
 
+| S.No | Questions                                          | Difficulty | Unsolved | Solved |
+| ---- | -------------------------------------------------- | ---------- | -------- | ------ |
+| 1    | 175. Combine Two Tables                            | Easy       | 🔗       | 🔗     |
+| 2    | 176. Second Highest Salary                         | Medium     | 🔗       | 🔗     |
+| 3    | 177. Nth Highest Salary                            | Medium     | 🔗       | 🔗     |
+| 4    | 178. Rank Scores                                   | Medium     | 🔗       | 🔗     |
+| 5    | 180. Consecutive Numbers                           | Medium     | 🔗       | 🔗     |
+| 6    | 181. Employees Earning More Than Their Managers    | Easy       | 🔗       | 🔗     |
+| 7    | 182. Duplicate Emails                              | Easy       | 🔗       | 🔗     |
+| 8    | 183. Customers Who Never Order                     | Easy       | 🔗       | 🔗     |
+| 9    | 184. Department Highest Salary                     | Medium     | 🔗       | 🔗     |
+| 10   | 185. Department Top Three Salaries                 | Hard       | 🔗       | 🔗     |
+| 11   | 196. Delete Duplicate Emails                       | Easy       | 🔗       | 🔗     |
+| 12   | 197. Rising Temperature                            | Easy       | 🔗       | 🔗     |
+| 13   | 511. Game Play Analysis I                          | Easy       | 🔗       | 🔗     |
+| 14   | 512. Game Play Analysis II                         | Medium     | 🔗       | 🔗     |
+| 15   | 570. Managers with at Least 5 Direct Reports       | Medium     | 🔗       | 🔗     |
+| 16   | 571. Find Median Given Frequency of Numbers        | Hard       | 🔗       | 🔗     |
+| 17   | 584. Find Customer Referee                         | Easy       | 🔗       | 🔗     |
+| 18   | 585. Investments in 2016                           | Medium     | 🔗       | 🔗     |
+| 19   | 586. Customer Placing the Largest Number of Orders | Easy       | 🔗       | 🔗     |
+| 20   | 595. Big Countries                                 | Easy       | 🔗       | 🔗     |
+| 21   | 596. Classes More Than 5 Students                 | Easy       | 🔗       | 🔗     |
+| 22   | 597. Friend Requests I: Overall Acceptance Rate    | Easy       | 🔗       | 🔗     |
+| 23   | 602. Friend Requests II: Who Has the Most Friends  | Medium     | 🔗       | 🔗     |
+| 24   | 610. Triangle Judgement                            | Easy       | 🔗       | 🔗     |
+| 25   | 620. Not Boring Movies                             | Easy       | 🔗       | 🔗     |
+| 26   | 626. Exchange Seats                                | Medium     | 🔗       | 🔗     |
+| 27   | 627. Swap Salary                                   | Easy       | 🔗       | 🔗     |
+| 28   | 1141. User Activity for the Past 30 Days I        | Easy       | 🔗       | 🔗     |
+| 29   | 1142. User Activity for the Past 30 Days II       | Easy       | 🔗       | 🔗     |
+| 30   | 1158. Market Analysis I                           | Medium     | 🔗       | 🔗     |
+
+
 **[175. Combine Two Tables (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/175.%20Combine%20Two%20Tables%20(Easy).ipynb)**
 
 **[176. Second Highest Salary (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/176.%20Second%20Highest%20Salary%20(Medium).ipynb)**
