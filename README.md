@@ -123,29 +123,29 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 **[1069. Product Sales Analysis II (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1069.%20Product%20Sales%20Analysis%20II%20(Easy).ipynb)**
 
-**[1070. Product Sales Analysis III (Med)]()**
+**[1070. Product Sales Analysis III (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1070.%20Product%20Sales%20Analysis%20III%20(Medium).ipynb)**
 
-**[1075. Project Employees I (Easy)]()**
+**[1075. Project Employees I (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1075.%20Project%20Employees%20I%20(Easy).ipynb)**
 
-**[1076. Project Employees II (Easy)]()**
+**[1076. Project Employees II (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1076.%20Project%20Employees%20II%20(Easy).ipynb)**
 
-**[1077. Project Employees III (Med)]()**
+**[1077. Project Employees III (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1077.%20Project%20Employees%20III%20(Medium).ipynb)**
 
-**[1082. Sales Analysis I (Easy)]()**
+**[1082. Sales Analysis I (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1082.%20Sales%20Analysis%20I%20(Easy).ipynb)**
 
-**[1083. Sales Analysis II (Easy)]()**
+**[1083. Sales Analysis II (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1083.%20Sales%20Analysis%20II%20(Easy).ipynb)**
 
-**[1084. Sales Analysis III (Easy)]()**
+**[1084. Sales Analysis III (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1084.%20Sales%20Analysis%20III%20(Easy).ipynb)**
 
-**[1097. Game Play Analysis V (Hard)]()**
+**[1097. Game Play Analysis V (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1097.%20Game%20Play%20Analysis%20V%20(Hard).ipynb)**
 
-**[1098. Unpopular Books (Med)]()**
+**[1098. Unpopular Books (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1098.%20Unpopular%20Books%20(Medium).ipynb)**
 
-**[1107. New Users Daily Count (Med)]()**
+**[1107. New Users Daily Count (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1107.%20New%20Users%20Daily%20Count%20(Medium).ipynb)**
 
-**[1112. Highest Grade For Each Student (Med)]()**
+**[1112. Highest Grade For Each Student (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1112.%20Highest%20Grade%20For%20Each%20Student%20(Medium).ipynb)**
 
-**[1113. Reported Posts (Easy)]()**
+**[1113. Reported Posts (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1113.%20Reported%20Posts%20(Easy).ipynb)**
 
 **[1126. Active Businesses (Med)]()**
 
