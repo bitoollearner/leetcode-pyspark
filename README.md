@@ -25,7 +25,7 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 | S.No | Questions                                          | Difficulty | Unsolved | Solved |
 | ---- | -------------------------------------------------- | ---------- | -------- | ------ |
- | 1 | 175. Combine Two Tables | Easy | [🔗](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/175.%20Combine%20Two%20Tables%20(Easy).ipynb)** | 🔗 | 
+ | 1 | 175. Combine Two Tables | Easy | **[🔗](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/175.%20Combine%20Two%20Tables%20(Easy).ipynb)** | 🔗 | 
  | 2 | 176. Second Highest Salary | Med | 🔗 | 🔗 | 
  | 3 | 177. Nth Highest Salary | Med | 🔗 | 🔗 | 
  | 4 | 178. Rank Scores | Med | 🔗 | 🔗 | 
