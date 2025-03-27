@@ -103,25 +103,25 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 **[614. Second Degree Follower (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/614.%20Second%20Degree%20Follower%20(Medium).ipynb)**
 
-**[615. Average Salary: Departments VS Company (Hard)]()**
+**[615. Average Salary: Departments VS Company (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/615.%20Average%20Salary_%20Department%20Vs%20Company%20(Hard).ipynb)**
 
-**[618. Students Report By Geography (Hard)]()**
+**[618. Students Report By Geography (Hard)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/618.%20Student%20Report%20By%20Geography%20(Hard).ipynb)**
 
-**[619. Biggest Single Number (Easy)]()**
+**[619. Biggest Single Number (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/619.%20Biggest%20Single%20Number%20(Easy).ipynb)**
 
-**[620. Not Boring Movies (Easy)]()**
+**[620. Not Boring Movies (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/620.%20Not%20Boring%20Movies%20(Easy).ipynb)**
 
-**[626. Exchange Seats (Med)]()**
+**[626. Exchange Seats (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/626.%20Exchange%20Seats%20(Medium).ipynb)**
 
-**[627. Swap Salary (Easy)]()**
+**[627. Swap Salary (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/627.%20Swap%20Salary%20(Easy).ipynb)**
 
-**[1045. Customers Who Bought All Products (Med)]()**
+**[1045. Customers Who Bought All Products (Med)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1045.%20Customers%20Who%20Bought%20All%20Products%20(Medium).ipynb)**
 
-**[1050. Actors and Directors Who Cooperated At Least Three Times (Easy)]()**
+**[1050. Actors and Directors Who Cooperated At Least Three Times (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times%20(Easy).ipynb)**
 
-**[1068. Product Sales Analysis I (Easy)]()**
+**[1068. Product Sales Analysis I (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1068.%20Product%20Sales%20Analysis%20I%20(Easy).ipynb)**
 
-**[1069. Product Sales Analysis II (Easy)]()**
+**[1069. Product Sales Analysis II (Easy)](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1069.%20Product%20Sales%20Analysis%20II%20(Easy).ipynb)**
 
 **[1070. Product Sales Analysis III (Med)]()**
 
