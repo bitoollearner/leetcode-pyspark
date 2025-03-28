@@ -114,21 +114,21 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 87 | 1280. Students and Examinations | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1280.%20Students%20and%20Examinations%20(Easy).ipynb)** | **[…]** | 
  | 88 | 1285. Find the Start and End Number of Continuous Ranges | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1285.%20Find%20the%20Start%20and%20End%20Number%20of%20Continuous%20Ranges%20(Medium).ipynb)** | **[…]** | 
  | 89 | 1294. Weather Type in Each Country | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1294.%20Weather%20Type%20in%20Each%20Country%20(Easy).ipynb)** | **[…]** | 
- | 90 | 1303. Find the Team Size | Easy | **[…]()** | **[…]** | 
- | 91 | 1308. Running Total for Different Genders | Med | **[…]()** | **[…]** | 
- | 92 | 1321. Restaurant Growth | Med | **[…]()** | **[…]** | 
- | 93 | 1322. Ads Performance | Easy | **[…]()** | **[…]** | 
- | 94 | 1327. List the Products Ordered in a Period | Easy | **[…]()** | **[…]** | 
- | 95 | 1336. Number of Transactions per Visit | Hard | **[…]()** | **[…]** | 
- | 96 | 1341. Movie Rating | Med | **[…]()** | **[…]** | 
- | 97 | 1350. Students With Invalid Departments | Easy | **[…]()** | **[…]** | 
- | 98 | 1355. Activity Participants | Med | **[…]()** | **[…]** | 
- | 99 | 1364. Number of Trusted Contacts of a Customer | Med | **[…]()** | **[…]** | 
- | 100 | 1369. Get the Second Most Recent Activity | Hard | **[…]()** | **[…]** | 
- | 101 | 1378. Replace Employee ID With The Unique Identifier | Easy | **[…]()** | **[…]** | 
- | 102 | 1384. Total Sales Amount by Year | Hard | **[…]()** | **[…]** | 
- | 103 | 1393. Capital Gain/Loss | Med | **[…]()** | **[…]** | 
- | 104 | 1398. Customers Who Bought Products A and B but Not C | Med | **[…]()** | **[…]** | 
+ | 90 | 1303. Find the Team Size | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1303.%20Find%20the%20Team%20Size%20(Easy).ipynb)** | **[…]** | 
+ | 91 | 1308. Running Total for Different Genders | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1308.%20Running%20Total%20for%20Different%20Genders%20(Easy).ipynb)** | **[…]** | 
+ | 92 | 1321. Restaurant Growth | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1321.%20Restaurant%20Growth%20(Medium).ipynb)** | **[…]** | 
+ | 93 | 1322. Ads Performance | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1322.%20Ads%20Performance%20(Easy).ipynb)** | **[…]** | 
+ | 94 | 1327. List the Products Ordered in a Period | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period%20(Easy).ipynb)** | **[…]** | 
+ | 95 | 1336. Number of Transactions per Visit | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1336.%20Number%20of%20Transactions%20per%20Visit%20(Hard).ipynb)** | **[…]** | 
+ | 96 | 1341. Movie Rating | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1341.%20Movie%20Rating%20(Medium).ipynb)** | **[…]** | 
+ | 97 | 1350. Students With Invalid Departments | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1350.%20Students%20With%20Invalid%20Departments%20(Easy).ipynb)** | **[…]** | 
+ | 98 | 1355. Activity Participants | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1355.%20Activity%20Participants%20(Medium).ipynb)** | **[…]** | 
+ | 99 | 1364. Number of Trusted Contacts of a Customer | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1364.%20Number%20of%20Trusted%20Contacts%20of%20a%20Customer%20(Medium).ipynb)** | **[…]** | 
+ | 100 | 1369. Get the Second Most Recent Activity | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1369.%20Get%20the%20Second%20Most%20Recent%20Activity%20(Hard).ipynb)** | **[…]** | 
+ | 101 | 1378. Replace Employee ID With The Unique Identifier | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier%20(Easy).ipynb)** | **[…]** | 
+ | 102 | 1384. Total Sales Amount by Year | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1384.%20Total%20Sales%20Amount%20by%20Year%20(Hard).ipynb)** | **[…]** | 
+ | 103 | 1393. Capital Gain/Loss | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1393.%20Capital%20Gain%20OR%20Loss%20(Medium).ipynb)** | **[…]** | 
+ | 104 | 1398. Customers Who Bought Products A and B but Not C | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C%20(Medium).ipynb)** | **[…]** | 
  | 105 | 1407. Top Travellers | Easy | **[…]()** | **[…]** | 
  | 106 | 1412. Find the Quiet Students in All Exams | Hard | **[…]()** | **[…]** | 
  | 107 | 1421. NPV Queries | Easy | **[…]()** | **[…]** | 
