@@ -87,21 +87,21 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 60 | 1107. New Users Daily Count | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1107.%20New%20Users%20Daily%20Count%20(Medium).ipynb)** | **[…]** | 
  | 61 | 1112. Highest Grade For Each Student | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1112.%20Highest%20Grade%20For%20Each%20Student%20(Medium).ipynb)** | **[…]** | 
  | 62 | 1113. Reported Posts | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1113.%20Reported%20Posts%20(Easy).ipynb)** | **[…]** | 
- | 63 | 1126. Active Businesses | Med | **[…]()** | **[…]** | 
- | 64 | 1127. User Purchase Platform | Hard | **[…]()** | **[…]** | 
- | 65 | 1132. Reported Posts II | Med | **[…]()** | **[…]** | 
- | 66 | 1141. User Activity for the Past 30 Days I | Easy | **[…]()** | **[…]** | 
- | 67 | 1142. User Activity for the Past 30 Days II | Easy | **[…]()** | **[…]** | 
- | 68 | 1148. Article Views I | Easy | **[…]()** | **[…]** | 
- | 69 | 1149. Article Views II | Med | **[…]()** | **[…]** | 
- | 70 | 1158. Market Analysis I | Med | **[…]()** | **[…]** | 
- | 71 | 1159. Market Analysis II | Hard | **[…]()** | **[…]** | 
- | 72 | 1164. Product Price at a Given Date | Med | **[…]()** | **[…]** | 
- | 73 | 1173. Immediate Food Delivery I | Easy | **[…]()** | **[…]** | 
- | 74 | 1174. Immediate Food Delivery II | Med | **[…]()** | **[…]** | 
- | 75 | 1179. Reformat Department Table | Easy | **[…]()** | **[…]** | 
- | 76 | 1193. Monthly Transactions I | Med | **[…]()** | **[…]** | 
- | 77 | 1194. Tournament Winners | Hard | **[…]()** | **[…]** | 
+ | 63 | 1126. Active Businesses | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1126.%20Active%20Businesses%20(Medium).ipynb)** | **[…]** | 
+ | 64 | 1127. User Purchase Platform | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1127.%20User%20Purchase%20Platform%20(Hard).ipynb)** | **[…]** | 
+ | 65 | 1132. Reported Posts II | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1132.%20Reported%20Posts%20II%20(Medium).ipynb)** | **[…]** | 
+ | 66 | 1141. User Activity for the Past 30 Days I | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I%20(Easy).ipynb)** | **[…]** | 
+ | 67 | 1142. User Activity for the Past 30 Days II | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1142.%20User%20Activity%20for%20the%20Past%2030%20Days%20II%20(Easy).ipynb)** | **[…]** | 
+ | 68 | 1148. Article Views I | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1148.%20Article%20Views%20I%20(Easy).ipynb)** | **[…]** | 
+ | 69 | 1149. Article Views II | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1149.%20Article%20Views%20II%20(Medium).ipynb)** | **[…]** | 
+ | 70 | 1158. Market Analysis I | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1158.%20Market%20Analysis%20I%20(Medium).ipynb)** | **[…]** | 
+ | 71 | 1159. Market Analysis II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1159.%20Market%20Analysis%20II%20(Hard).ipynb)** | **[…]** | 
+ | 72 | 1164. Product Price at a Given Date | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1164.%20Product%20Price%20at%20a%20Given%20Date%20(Medium).ipynb)** | **[…]** | 
+ | 73 | 1173. Immediate Food Delivery I | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1173.%20Immediate%20Food%20Delivery%20I%20(Easy).ipynb)** | **[…]** | 
+ | 74 | 1174. Immediate Food Delivery II | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1174.%20Immediate%20Food%20Delivery%20II%20(Medium).ipynb)** | **[…]** | 
+ | 75 | 1179. Reformat Department Table | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1179.%20Reformat%20Department%20Table%20(Easy).ipynb)** | **[…]** | 
+ | 76 | 1193. Monthly Transactions I | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1193.%20Monthly%20Transactions%20I%20(Medium).ipynb)** | **[…]** | 
+ | 77 | 1194. Tournament Winners | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1194.%20Tournament%20Winners%20(Hard).ipynb)** | **[…]** | 
  | 78 | 1204. Last Person to Fit in the Bus | Med | **[…]()** | **[…]** | 
  | 79 | 1205. Monthly Transactions II | Med | **[…]()** | **[…]** | 
  | 80 | 1211. Queries Quality and Percentage | Easy | **[…]()** | **[…]** | 
