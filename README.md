@@ -102,18 +102,18 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 75 | 1179. Reformat Department Table | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1179.%20Reformat%20Department%20Table%20(Easy).ipynb)** | **[…]** | 
  | 76 | 1193. Monthly Transactions I | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1193.%20Monthly%20Transactions%20I%20(Medium).ipynb)** | **[…]** | 
  | 77 | 1194. Tournament Winners | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1194.%20Tournament%20Winners%20(Hard).ipynb)** | **[…]** | 
- | 78 | 1204. Last Person to Fit in the Bus | Med | **[…]()** | **[…]** | 
- | 79 | 1205. Monthly Transactions II | Med | **[…]()** | **[…]** | 
- | 80 | 1211. Queries Quality and Percentage | Easy | **[…]()** | **[…]** | 
- | 81 | 1212. Team Scores in Football Tournament | Med | **[…]()** | **[…]** | 
- | 82 | 1225. Report Contiguous Dates | Hard | **[…]()** | **[…]** | 
- | 83 | 1241. Number of Comments per Post | Easy | **[…]()** | **[…]** | 
- | 84 | 1251. Average Selling Price | Easy | **[…]()** | **[…]** | 
- | 85 | 1264. Page Recommendations | Med | **[…]()** | **[…]** | 
- | 86 | 1270. All People Report to the Given Manager | Med | **[…]()** | **[…]** | 
- | 87 | 1280. Students and Examinations | Easy | **[…]()** | **[…]** | 
- | 88 | 1285. Find the Start and End Number of Continuous Ranges | Med | **[…]()** | **[…]** | 
- | 89 | 1294. Weather Type in Each Country | Easy | **[…]()** | **[…]** | 
+ | 78 | 1204. Last Person to Fit in the Bus | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus%20(Medium).ipynb)** | **[…]** | 
+ | 79 | 1205. Monthly Transactions II | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1205.%20Monthly%20Transactions%20II%20(Medium).ipynb)** | **[…]** | 
+ | 80 | 1211. Queries Quality and Percentage | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1211.%20Queries%20Quality%20and%20Percentage%20(Easy).ipynb)** | **[…]** | 
+ | 81 | 1212. Team Scores in Football Tournament | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1212.%20Team%20Scores%20in%20Football%20Tournament%20(Medium).ipynb)** | **[…]** | 
+ | 82 | 1225. Report Contiguous Dates | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1225.%20Report%20Contiguous%20Dates%20(Hard).ipynb)** | **[…]** | 
+ | 83 | 1241. Number of Comments per Post | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1241.%20Number%20of%20Comments%20per%20Post(Easy).ipynb)** | **[…]** | 
+ | 84 | 1251. Average Selling Price | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1251.%20Average%20Selling%20Price%20(Easy).ipynb)** | **[…]** | 
+ | 85 | 1264. Page Recommendations | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1264.%20Page%20Recommendations%20(Medium).ipynb)** | **[…]** | 
+ | 86 | 1270. All People Report to the Given Manager | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1270.%20All%20People%20Report%20to%20the%20Given%20Manager%20(Medium).ipynb)** | **[…]** | 
+ | 87 | 1280. Students and Examinations | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1280.%20Students%20and%20Examinations%20(Easy).ipynb)** | **[…]** | 
+ | 88 | 1285. Find the Start and End Number of Continuous Ranges | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1285.%20Find%20the%20Start%20and%20End%20Number%20of%20Continuous%20Ranges%20(Medium).ipynb)** | **[…]** | 
+ | 89 | 1294. Weather Type in Each Country | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1294.%20Weather%20Type%20in%20Each%20Country%20(Easy).ipynb)** | **[…]** | 
  | 90 | 1303. Find the Team Size | Easy | **[…]()** | **[…]** | 
  | 91 | 1308. Running Total for Different Genders | Med | **[…]()** | **[…]** | 
  | 92 | 1321. Restaurant Growth | Med | **[…]()** | **[…]** | 
