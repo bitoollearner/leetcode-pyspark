@@ -141,19 +141,19 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 114 | 1479. Sales by Day of the Week | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1479.%20Sales%20by%20Day%20of%20the%20Week%20(Hard).ipynb)** | **[…]** | 
  | 115 | 1484. Group Sold Products By The Date | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1484.%20Group%20Sold%20Products%20By%20The%20Date%20(Easy).ipynb)** | **[…]** | 
  | 116 | 1495. Friendly Movies Streamed Last Month | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1495.%20Friendly%20Movies%20Streamed%20Last%20Month%20(Easy).ipynb)** | **[…]** | 
- | 117 | 1501. Countries You Can Safely Invest In | Med | **[…]()** | **[…]** | 
- | 118 | 1511. Customer Order Frequency | Easy | **[…]()** | **[…]** | 
- | 119 | 1517. Find Users With Valid E-Mails | Easy | **[…]()** | **[…]** | 
- | 120 | 1527. Patients With a Condition | Easy | **[…]()** | **[…]** | 
- | 121 | 1532. The Most Recent Three Orders | Med | **[…]()** | **[…]** | 
- | 122 | 1543. Fix Product Name Format | Easy | **[…]()** | **[…]** | 
- | 123 | 1549. The Most Recent Orders for Each Product | Med | **[…]()** | **[…]** | 
- | 124 | 1555. Bank Account Summary | Med | **[…]()** | **[…]** | 
- | 125 | 1565. Unique Orders and Customers Per Month | Easy | **[…]()** | **[…]** | 
- | 126 | 1571. Warehouse Manager | Easy | **[…]()** | **[…]** | 
- | 127 | 1581. Customer Who Visited but Did Not Make Any Transactions | Easy | **[…]()** | **[…]** | 
- | 128 | 1587. Bank Account Summary II | Easy | **[…]()** | **[…]** | 
- | 129 | 1596. The Most Frequently Ordered Products for Each Customer | Med | **[…]()** | **[…]** | 
+ | 117 | 1501. Countries You Can Safely Invest In | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1501.%20Countries%20You%20Can%20Safely%20Invest%20In%20(Medium).ipynb)** | **[…]** | 
+ | 118 | 1511. Customer Order Frequency | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1511.%20Customer%20Order%20Frequency%20(Easy).ipynb)** | **[…]** | 
+ | 119 | 1517. Find Users With Valid E-Mails | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1517.%20Find%20Users%20With%20Valid%20E-Mails%20(Easy).ipynb)** | **[…]** | 
+ | 120 | 1527. Patients With a Condition | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1527.%20Patients%20With%20a%20Condition%20(Easy).ipynb)** | **[…]** | 
+ | 121 | 1532. The Most Recent Three Orders | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1532.%20The%20Most%20Recent%20Three%20Orders%20(Medium).ipynb)** | **[…]** | 
+ | 122 | 1543. Fix Product Name Format | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1543.%20Fix%20Product%20Name%20Format%20(Easy).ipynb)** | **[…]** | 
+ | 123 | 1549. The Most Recent Orders for Each Product | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1549.%20The%20Most%20Recent%20Orders%20for%20Each%20Product%20(Medium).ipynb)** | **[…]** | 
+ | 124 | 1555. Bank Account Summary | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1555.%20Bank%20Account%20Summary%20(Medium).ipynb)** | **[…]** | 
+ | 125 | 1565. Unique Orders and Customers Per Month | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1565.%20Unique%20Orders%20and%20Customers%20Per%20Month%20(Easy).ipynb)** | **[…]** | 
+ | 126 | 1571. Warehouse Manager | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1571.%20Warehouse%20Manager%20(Easy).ipynb)** | **[…]** | 
+ | 127 | 1581. Customer Who Visited but Did Not Make Any Transactions | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions%20(Easy).ipynb)** | **[…]** | 
+ | 128 | 1587. Bank Account Summary II | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1587.%20Bank%20Account%20Summary%20II%20(Easy).ipynb)** | **[…]** | 
+ | 129 | 1596. The Most Frequently Ordered Products for Each Customer | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1596.%20The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer%20(Medium).ipynb)** | **[…]** | 
  | 130 | 1607. Sellers With No Sales | Easy | **[…]()** | **[…]** | 
  | 131 | 1613. Find the Missing IDs | Med | **[…]()** | **[…]** | 
  | 132 | 1623. All Valid Triplets That Can Represent a Country | Easy | **[…]()** | **[…]** | 
