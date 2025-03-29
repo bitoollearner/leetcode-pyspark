@@ -129,18 +129,18 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 102 | 1384. Total Sales Amount by Year | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1384.%20Total%20Sales%20Amount%20by%20Year%20(Hard).ipynb)** | **[…]** | 
  | 103 | 1393. Capital Gain/Loss | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1393.%20Capital%20Gain%20OR%20Loss%20(Medium).ipynb)** | **[…]** | 
  | 104 | 1398. Customers Who Bought Products A and B but Not C | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1398.%20Customers%20Who%20Bought%20Products%20A%20and%20B%20but%20Not%20C%20(Medium).ipynb)** | **[…]** | 
- | 105 | 1407. Top Travellers | Easy | **[…]()** | **[…]** | 
- | 106 | 1412. Find the Quiet Students in All Exams | Hard | **[…]()** | **[…]** | 
- | 107 | 1421. NPV Queries | Easy | **[…]()** | **[…]** | 
- | 108 | 1435. Create a Session Bar Chart | Easy | **[…]()** | **[…]** | 
- | 109 | 1440. Evaluate Boolean Expression | Med | **[…]()** | **[…]** | 
- | 110 | 1445. Apples & Oranges | Med | **[…]()** | **[…]** | 
- | 111 | 1454. Active Users | Med | **[…]()** | **[…]** | 
- | 112 | 1459. Rectangles Area | Med | **[…]()** | **[…]** | 
- | 113 | 1468. Calculate Salaries | Med | **[…]()** | **[…]** | 
- | 114 | 1479. Sales by Day of the Week | Hard | **[…]()** | **[…]** | 
- | 115 | 1484. Group Sold Products By The Date | Easy | **[…]()** | **[…]** | 
- | 116 | 1495. Friendly Movies Streamed Last Month | Easy | **[…]()** | **[…]** | 
+ | 105 | 1407. Top Travellers | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1407.%20Top%20Travellers%20(Easy).ipynb)** | **[…]** | 
+ | 106 | 1412. Find the Quiet Students in All Exams | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1412.%20Find%20the%20Quiet%20Students%20in%20All%20Exam%20(Hard).ipynb)** | **[…]** | 
+ | 107 | 1421. NPV Queries | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1421.%20NPV%20Queries%20(Easy).ipynb)** | **[…]** | 
+ | 108 | 1435. Create a Session Bar Chart | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1435.%20Create%20a%20Session%20Bar%20Chart%20(Easy).ipynb)** | **[…]** | 
+ | 109 | 1440. Evaluate Boolean Expression | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1440.%20Evaluate%20Boolean%20Expression%20(Medium).ipynb)** | **[…]** | 
+ | 110 | 1445. Apples & Oranges | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1445.%20Apples%20%26%20Oranges%20(Medium).ipynb)** | **[…]** | 
+ | 111 | 1454. Active Users | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1454.%20Active%20Users%20(Medium).ipynb)** | **[…]** | 
+ | 112 | 1459. Rectangles Area | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1459.%20Rectangles%20Area%20(Medium).ipynb)** | **[…]** | 
+ | 113 | 1468. Calculate Salaries | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1468.%20Calculate%20Salaries%20(Medium).ipynb)** | **[…]** | 
+ | 114 | 1479. Sales by Day of the Week | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1479.%20Sales%20by%20Day%20of%20the%20Week%20(Hard).ipynb)** | **[…]** | 
+ | 115 | 1484. Group Sold Products By The Date | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1484.%20Group%20Sold%20Products%20By%20The%20Date%20(Easy).ipynb)** | **[…]** | 
+ | 116 | 1495. Friendly Movies Streamed Last Month | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1495.%20Friendly%20Movies%20Streamed%20Last%20Month%20(Easy).ipynb)** | **[…]** | 
  | 117 | 1501. Countries You Can Safely Invest In | Med | **[…]()** | **[…]** | 
  | 118 | 1511. Customer Order Frequency | Easy | **[…]()** | **[…]** | 
  | 119 | 1517. Find Users With Valid E-Mails | Easy | **[…]()** | **[…]** | 
