@@ -154,19 +154,19 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 127 | 1581. Customer Who Visited but Did Not Make Any Transactions | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions%20(Easy).ipynb)** | **[…]** | 
  | 128 | 1587. Bank Account Summary II | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1587.%20Bank%20Account%20Summary%20II%20(Easy).ipynb)** | **[…]** | 
  | 129 | 1596. The Most Frequently Ordered Products for Each Customer | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1596.%20The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer%20(Medium).ipynb)** | **[…]** | 
- | 130 | 1607. Sellers With No Sales | Easy | **[…]()** | **[…]** | 
- | 131 | 1613. Find the Missing IDs | Med | **[…]()** | **[…]** | 
- | 132 | 1623. All Valid Triplets That Can Represent a Country | Easy | **[…]()** | **[…]** | 
- | 133 | 1633. Percentage of Users Attended a Contest | Easy | **[…]()** | **[…]** | 
- | 134 | 1635. Hopper Company Queries I | Hard | **[…]()** | **[…]** | 
- | 135 | 1645. Hopper Company Queries II | Hard | **[…]()** | **[…]** | 
- | 136 | 1651. Hopper Company Queries III | Hard | **[…]()** | **[…]** | 
- | 137 | 1661. Average Time of Process per Machine | Easy | **[…]()** | **[…]** | 
- | 138 | 1667. Fix Names in a Table | Easy | **[…]()** | **[…]** | 
- | 139 | 1677. Product's Worth Over Invoices | Easy | **[…]()** | **[…]** | 
- | 140 | 1683. Invalid Tweets | Easy | **[…]()** | **[…]** | 
- | 141 | 1693. Daily Leads and Partners | Easy | **[…]()** | **[…]** | 
- | 142 | 1699. Number of Calls Between Two Persons | Med | **[…]()** | **[…]** | 
+ | 130 | 1607. Sellers With No Sales | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1607.%20Sellers%20With%20No%20Sales%20(Easy).ipynb)** | **[…]** | 
+ | 131 | 1613. Find the Missing IDs | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1613.%20Find%20the%20Missing%20IDs%20(Medium).ipynb)** | **[…]** | 
+ | 132 | 1623. All Valid Triplets That Can Represent a Country | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1623.%20All%20Valid%20Triplets%20That%20Can%20Represent%20a%20Country%20(Easy).ipynb)** | **[…]** | 
+ | 133 | 1633. Percentage of Users Attended a Contest | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest%20(Easy).ipynb)** | **[…]** | 
+ | 134 | 1635. Hopper Company Queries I | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1635.%20Hopper%20Company%20Queries%20I%20(Hard).ipynb)** | **[…]** | 
+ | 135 | 1645. Hopper Company Queries II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1645.%20Hopper%20Company%20Queries%20II%20(Hard).ipynb)** | **[…]** | 
+ | 136 | 1651. Hopper Company Queries III | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1651.%20Hopper%20Company%20Queries%20III%20(Hard).ipynb)** | **[…]** | 
+ | 137 | 1661. Average Time of Process per Machine | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1661.%20Average%20Time%20of%20Process%20per%20Machine%20(Easy).ipynb)** | **[…]** | 
+ | 138 | 1667. Fix Names in a Table | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1667.%20Fix%20Names%20in%20a%20Table%20(Easy).ipynb)** | **[…]** | 
+ | 139 | 1677. Product's Worth Over Invoices | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1677.%20Product's%20Worth%20Over%20Invoices%20(Easy).ipynb)** | **[…]** | 
+ | 140 | 1683. Invalid Tweets | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1683.%20Invalid%20Tweets%20(Easy).ipynb)** | **[…]** | 
+ | 141 | 1693. Daily Leads and Partners | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1693.%20Daily%20Leads%20and%20Partners%20(Easy).ipynb)** | **[…]** | 
+ | 142 | 1699. Number of Calls Between Two Persons | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1699.%20Number%20of%20Calls%20Between%20Two%20Persons%20(Medium).ipynb)** | **[…]** | 
  | 143 | 1709. Biggest Window Between Visits | Med | **[…]()** | **[…]** | 
  | 144 | 1715. Count Apples and Oranges | Med | **[…]()** | **[…]** | 
  | 145 | 1729. Find Followers Count | Easy | **[…]()** | **[…]** | 
