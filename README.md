@@ -31,7 +31,6 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 - **GitHub Repository Access:**
    - Access to your GitHub repository containing solutions to LeetCode SQL questions. Users should be able to clone the repository, review the solutions, and potentially contribute if allowed.
 
-## setting up **Databricks Premium** and **Databricks Community Edition** to work with PySpark.
 
 ## **1. Setting up Databricks Premium (Paid Version)**
 Databricks Premium is a paid plan that offers advanced features such as higher compute power, security options, and integrations.
@@ -92,6 +91,9 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 | Cluster Scaling | Scalable | Limited (Single Node) |
 | Security Features | Advanced | Basic |
 | Collaboration | Multi-user | Single-user |
+
+> **Note:**  
+> The Databricks Community Edition will be more than adequate for this activity.
 
 ## LeetCode SQL Questions
 
