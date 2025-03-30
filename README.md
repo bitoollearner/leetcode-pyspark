@@ -203,16 +203,16 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 176 | 1978. Employees Whose Manager Left the Company | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company%20(Easy).ipynb)** | **[…]** | 
  | 177 | 1988. Find Cutoff Score for Each School | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1988.%20Find%20Cutoff%20Score%20for%20Each%20School%20(Medium).ipynb)** | **[…]** | 
  | 178 | 1990. Count the Number of Experiments | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1990.%20Count%20the%20Number%20of%20Experiments%20(Medium).ipynb)** | **[…]** | 
- | 179 | 2004. The Number of Seniors and Juniors to Join the Company | Hard | **[…]()** | **[…]** | 
- | 180 | 2010. The Number of Seniors and Juniors to Join the Company II | Hard | **[…]()** | **[…]** | 
- | 181 | 2020. Number of Accounts That Did Not Stream | Med | **[…]()** | **[…]** | 
- | 182 | 2026. Low-Quality Problems | Easy | **[…]()** | **[…]** | 
- | 183 | 2041. Accepted Candidates From the Interviews | Med | **[…]()** | **[…]** | 
- | 184 | 2051. The Category of Each Member in the Store | Med | **[…]()** | **[…]** | 
- | 185 | 2066. Account Balance | Med | **[…]()** | **[…]** | 
- | 186 | 2072. The Winner University | Easy | **[…]()** | **[…]** | 
- | 187 | 2082. The Number of Rich Customers | Easy | **[…]()** | **[…]** | 
- | 188 | 2084. Drop Type 1 Orders for Customers With Type 0 Orders | Med | **[…]()** | **[…]** | 
+ | 179 | 2004. The Number of Seniors and Juniors to Join the Company | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2004.%20The%20Number%20of%20Seniors%20and%20Juniors%20to%20Join%20the%20Company%20(Hard).ipynb)** | **[…]** | 
+ | 180 | 2010. The Number of Seniors and Juniors to Join the Company II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2010.%20The%20Number%20of%20Seniors%20and%20Juniors%20to%20Join%20the%20Company%20II%20(Hard).ipynb)** | **[…]** | 
+ | 181 | 2020. Number of Accounts That Did Not Stream | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2020.%20Number%20of%20Accounts%20That%20Did%20Not%20Stream%20(Medium).ipynb)** | **[…]** | 
+ | 182 | 2026. Low-Quality Problems | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2026.%20Low-Quality%20Problems%20(Easy).ipynb)** | **[…]** | 
+ | 183 | 2041. Accepted Candidates From the Interviews | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2041.%20Accepted%20Candidates%20From%20the%20Interviews%20(Medium).ipynb)** | **[…]** | 
+ | 184 | 2051. The Category of Each Member in the Store | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2051.%20The%20Category%20of%20Each%20Member%20in%20the%20Store%20(Medium).ipynb)** | **[…]** | 
+ | 185 | 2066. Account Balance | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2066.%20Account%20Balance%20(Medium).ipynb)** | **[…]** | 
+ | 186 | 2072. The Winner University | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2072.%20The%20Winner%20University%20(Easy).ipynb)** | **[…]** | 
+ | 187 | 2082. The Number of Rich Customers | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2082.%20The%20Number%20of%20Rich%20Customers%20(Easy).ipynb)** | **[…]** | 
+ | 188 | 2084. Drop Type 1 Orders for Customers With Type 0 Orders | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2084.%20Drop%20Type%201%20Orders%20for%20Customers%20With%20Type%200%20Orders%20(Medium).ipynb)** | **[…]** | 
  | 189 | 2112. The Airport With the Most Traffic | Med | **[…]()** | **[…]** | 
  | 190 | 2118. Build the Equation | Hard | **[…]()** | **[…]** | 
  | 191 | 2142. The Number of Passengers in Each Bus I | Med | **[…]()** | **[…]** | 
