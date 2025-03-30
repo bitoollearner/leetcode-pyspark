@@ -23,7 +23,7 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 
 ### Prerequisites
 - **Databricks Account:**
- - You need access to a Databricks account. Databricks provides a collaborative environment for big data analytics, including support for PySpark, which is crucial for running your solutions.
+  - You need access to a Databricks account. Databricks provides a collaborative environment for big data analytics, including support for PySpark, which is crucial for running your solutions.
 
 - **Basic Knowledge of PySpark:**
  - Familiarity with PySpark is essential. Users should understand how to write PySpark code to manipulate dataframes, perform transformations, and execute actions.
