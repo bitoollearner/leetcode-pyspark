@@ -13,8 +13,8 @@ For each question, you will find:
 |------------|-------|
 | Easy       | 111   |
 | Medium     | 130   |
-| Hard       | 59    |
-| **Total**  | 300   |
+| Hard       | 60    |
+| **Total**  | 301   |
 
 All solutions in this notebook are implemented using **PySpark** to ensure consistency with big data processing practices. The approach utilizes **PySpark’s Python API, DataFrame API, and built-in functions** to solve problems efficiently.
 
