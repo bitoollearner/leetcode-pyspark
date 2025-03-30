@@ -250,31 +250,31 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 223 | 2686. Immediate Food Delivery III | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2686.%20Immediate%20Food%20Delivery%20III%20(Medium).ipynb)** | **[…]** | 
  | 224 | 2687. Bikes Last Time Used | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2687.%20Bikes%20Last%20Time%20Used%20(Easy).ipynb)** | **[…]** | 
  | 225 | 2688. Find Active Users | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2688.%20Find%20Active%20Users%20(Medium).ipynb)** | **[…]** | 
- | 226 | 2701. Consecutive Transactions with Increasing Amounts | Hard | **[…]()** | **[…]** | 
- | 227 | 2720. Popularity Percentage | Hard | **[…]()** | **[…]** | 
- | 228 | 2738. Count Occurrences in Text | Med | **[…]()** | **[…]** | 
- | 229 | 2752. Customers with Maximum Number of Transactions on Consecutive Days | Hard | **[…]()** | **[…]** | 
- | 230 | 2783. Flight Occupancy and Waitlist Analysis | Med | **[…]()** | **[…]** | 
- | 231 | 2837. Total Traveled Distance | Easy | **[…]()** | **[…]** | 
- | 232 | 2853. Highest Salaries Difference | Easy | **[…]()** | **[…]** | 
- | 233 | 2854. Rolling Average Steps | Med | **[…]()** | **[…]** | 
- | 234 | 2893. Calculate Orders Within Each Interval | Med | **[…]()** | **[…]** | 
- | 235 | 2922. Market Analysis III | Med | **[…]()** | **[…]** | 
- | 236 | 2978. Symmetric Coordinates | Med | **[…]()** | **[…]** | 
- | 237 | 2984. Find Peak Calling Hours for Each City | Med | **[…]()** | **[…]** | 
- | 238 | 2985. Calculate Compressed Mean | Easy | **[…]()** | **[…]** | 
- | 239 | 2986. Find Third Transaction | Med | **[…]()** | **[…]** | 
- | 240 | 2987. Find Expensive Cities | Easy | **[…]()** | **[…]** | 
- | 241 | 2988. Manager of the Largest Department | Med | **[…]()** | **[…]** | 
- | 242 | 2989. Class Performance | Med | **[…]()** | **[…]** | 
- | 243 | 2990. Loan Types | Easy | **[…]()** | **[…]** | 
- | 244 | 2991. Top Three Wineries | Hard | **[…]()** | **[…]** | 
- | 245 | 2993. Friday Purchases I | Med | **[…]()** | **[…]** | 
- | 246 | 2994. Friday Purchases II | Hard | **[…]()** | **[…]** | 
- | 247 | 2995. Viewers Turned Streamers | Hard | **[…]()** | **[…]** | 
- | 248 | 3050. Pizza Toppings Cost Analysis | Med | **[…]()** | **[…]** | 
- | 249 | 3051. Find Candidates for Data Scientist Position | Easy | **[…]()** | **[…]** | 
- | 250 | 3052. Maximize Items | Hard | **[…]()** | **[…]** | 
+ | 226 | 2701. Consecutive Transactions with Increasing Amounts | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2701.%20Consecutive%20Transactions%20with%20Increasing%20Amounts%20(Hard).ipynb)** | **[…]** | 
+ | 227 | 2720. Popularity Percentage | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2720.%20Popularity%20Percentage%20(Hard).ipynb)** | **[…]** | 
+ | 228 | 2738. Count Occurrences in Text | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2738.%20Count%20Occurrences%20in%20Text%20(Medium).ipynb)** | **[…]** | 
+ | 229 | 2752. Customers with Maximum Number of Transactions on Consecutive Days | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2752.%20Customers%20with%20Maximum%20Number%20of%20Transactions%20on%20Consecutive%20Days%20(Hard).ipynb)** | **[…]** | 
+ | 230 | 2783. Flight Occupancy and Waitlist Analysis | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2783.%20Flight%20Occupancy%20and%20Waitlist%20Analysis%20(Medium).ipynb)** | **[…]** | 
+ | 231 | 2837. Total Traveled Distance | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2837.%20Total%20Traveled%20Distance%20(Easy).ipynb)** | **[…]** | 
+ | 232 | 2853. Highest Salaries Difference | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2853.%20Highest%20Salaries%20Difference%20(Easy).ipynb)** | **[…]** | 
+ | 233 | 2854. Rolling Average Steps | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2854.%20Rolling%20Average%20Steps%20(Medium).ipynb)** | **[…]** | 
+ | 234 | 2893. Calculate Orders Within Each Interval | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2893.%20Calculate%20Orders%20Within%20Each%20Interval%20(Medium).ipynb)** | **[…]** | 
+ | 235 | 2922. Market Analysis III | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2922.%20Market%20Analysis%20III%20(Medium).ipynb)** | **[…]** | 
+ | 236 | 2978. Symmetric Coordinates | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2978.%20Symmetric%20Coordinates%20(Medium).ipynb)** | **[…]** | 
+ | 237 | 2984. Find Peak Calling Hours for Each City | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2984.%20Find%20Peak%20Calling%20Hours%20for%20Each%20City%20(Medium).ipynb)** | **[…]** | 
+ | 238 | 2985. Calculate Compressed Mean | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2985.%20Calculate%20Compressed%20Mean%20(Easy).ipynb)** | **[…]** | 
+ | 239 | 2986. Find Third Transaction | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2986.%20Find%20Third%20Transaction%20(Medium).ipynb)** | **[…]** | 
+ | 240 | 2987. Find Expensive Cities | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2987.%20Find%20Expensive%20Cities%20(Easy).ipynb)** | **[…]** | 
+ | 241 | 2988. Manager of the Largest Department | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2988.%20Manager%20of%20the%20Largest%20Department%20(Medium).ipynb)** | **[…]** | 
+ | 242 | 2989. Class Performance | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2989.%20Class%20Performance%20(Medium).ipynb)** | **[…]** | 
+ | 243 | 2990. Loan Types | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2990.%20Loan%20Types%20(Easy).ipynb)** | **[…]** | 
+ | 244 | 2991. Top Three Wineries | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2991.%20Top%20Three%20Wineries%20(Hard).ipynb)** | **[…]** | 
+ | 245 | 2993. Friday Purchases I | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2993.%20Friday%20Purchases%20I%20(Medium).ipynb)** | **[…]** | 
+ | 246 | 2994. Friday Purchases II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2994.%20Friday%20Purchases%20II%20(Hard).ipynb)** | **[…]** | 
+ | 247 | 2995. Viewers Turned Streamers | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2995.%20Viewers%20Turned%20Streamers%20(Hard).ipynb)** | **[…]** | 
+ | 248 | 3050. Pizza Toppings Cost Analysis | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3050.%20Pizza%20Toppings%20Cost%20Analysis%20(Medium).ipynb)** | **[…]** | 
+ | 249 | 3051. Find Candidates for Data Scientist Position | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3051.%20Find%20Candidates%20for%20Data%20Scientist%20Position%20(Easy).ipynb)** | **[…]** | 
+ | 250 | 3052. Maximize Items | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3052.%20Maximize%20Items%20(Hard).ipynb)** | **[…]** | 
  | 251 | 3053. Classifying Triangles by Lengths | Easy | **[…]()** | **[…]** | 
  | 252 | 3054. Binary Tree Nodes | Med | **[…]()** | **[…]** | 
  | 253 | 3055. Top Percentile Fraud | Med | **[…]()** | **[…]** | 
