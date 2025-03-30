@@ -298,17 +298,17 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 271 | 3182. Find Top Scoring Students | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3182.%20Find%20Top%20Scoring%20Students%20(Medium).ipynb)** | **[…]** | 
  | 272 | 3188. Find Top Scoring Students II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3188.%20Find%20Top%20Scoring%20Students%20II%20(Hard).ipynb)** | **[…]** | 
  | 273 | 3198. Find Cities in Each State | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3198.%20Find%20Cities%20in%20Each%20State%20(Easy).ipynb)** | **[…]** | 
- | 274 | 3204. Bitwise User Permissions Analysis | Med | **[…]()** | **[…]** | 
- | 275 | 3214. Year on Year Growth Rate | Hard | **[…]()** | **[…]** | 
- | 276 | 3220. Odd and Even Transactions | Med | **[…]()** | **[…]** | 
- | 277 | 3230. Customer Purchasing Behavior Analysis | Med | **[…]()** | **[…]** | 
- | 278 | 3236. CEO Subordinate Hierarchy | Hard | **[…]()** | **[…]** | 
- | 279 | 3246. Premier League Table Ranking | Easy | **[…]()** | **[…]** | 
- | 280 | 3252. Premier League Table Ranking II | Med | **[…]()** | **[…]** | 
- | 281 | 3262. Find Overlapping Shifts | Med | **[…]()** | **[…]** | 
- | 282 | 3268. Find Overlapping Shifts II | Hard | **[…]()** | **[…]** | 
- | 283 | 3278. Find Candidates for Data Scientist Position II | Med | **[…]()** | **[…]** | 
- | 284 | 3293. Calculate Product Final Price | Med | **[…]()** | **[…]** | 
+ | 274 | 3204. Bitwise User Permissions Analysis | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3204.%20Bitwise%20User%20Permissions%20Analysis%20(Medium).ipynb)** | **[…]** | 
+ | 275 | 3214. Year on Year Growth Rate | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3214.%20Year%20on%20Year%20Growth%20Rate%20(Hard).ipynb)** | **[…]** | 
+ | 276 | 3220. Odd and Even Transactions | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3220.%20Odd%20and%20Even%20Transactions%20(Medium).ipynb)** | **[…]** | 
+ | 277 | 3230. Customer Purchasing Behavior Analysis | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3230.%20Customer%20Purchasing%20Behavior%20Analysis%20(Medium).ipynb)** | **[…]** | 
+ | 278 | 3236. CEO Subordinate Hierarchy | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3236.%20CEO%20Subordinate%20Hierarchy%20(Hard).ipynb)** | **[…]** | 
+ | 279 | 3246. Premier League Table Ranking | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3246.%20Premier%20League%20Table%20Ranking%20(Easy).ipynb)** | **[…]** | 
+ | 280 | 3252. Premier League Table Ranking II | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3252.%20Premier%20League%20Table%20Ranking%20II%20(Medium).ipynb)** | **[…]** | 
+ | 281 | 3262. Find Overlapping Shifts | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3262.%20Find%20Overlapping%20Shifts%20(Medium).ipynb)** | **[…]** | 
+ | 282 | 3268. Find Overlapping Shifts II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3268.%20Find%20Overlapping%20Shifts%20II%20(Hard).ipynb)** | **[…]** | 
+ | 283 | 3278. Find Candidates for Data Scientist Position II | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3278.%20Find%20Candidates%20for%20Data%20Scientist%20Position%20II%20(Medium).ipynb)** | **[…]** | 
+ | 284 | 3293. Calculate Product Final Price | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3293.%20Calculate%20Product%20Final%20Price%20(Medium).ipynb)** | **[…]** | 
  | 285 | 3308. Find Top Performing Driver | Med | **[…]()** | **[…]** | 
  | 286 | 3322. Premier League Table Ranking III | Med | **[…]()** | **[…]** | 
  | 287 | 3328. Find Cities in Each State II | Med | **[…]()** | **[…]** | 
