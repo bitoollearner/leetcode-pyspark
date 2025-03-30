@@ -179,18 +179,18 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 152 | 1783. Grand Slam Titles | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1783.%20Grand%20Slam%20Titles%20(Medium).ipynb)** | **[…]** | 
  | 153 | 1789. Primary Department for Each Employee | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1789.%20Primary%20Department%20for%20Each%20Employee%20(Easy).ipynb)** | **[…]** | 
  | 154 | 1795. Rearrange Products Table | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1795.%20Rearrange%20Products%20Table%20(Easy).ipynb)** | **[…]** | 
- | 155 | 1809. Ad-Free Sessions | Easy | **[…]()** | **[…]** | 
- | 156 | 1811. Find Interview Candidates | Med | **[…]()** | **[…]** | 
- | 157 | 1821. Find Customers With Positive Revenue this Year | Easy | **[…]()** | **[…]** | 
- | 158 | 1831. Maximum Transaction Each Day | Med | **[…]()** | **[…]** | 
- | 159 | 1841. League Statistics | Med | **[…]()** | **[…]** | 
- | 160 | 1843. Suspicious Bank Accounts | Med | **[…]()** | **[…]** | 
- | 161 | 1853. Convert Date Format | Easy | **[…]()** | **[…]** | 
- | 162 | 1867. Orders With Maximum Quantity Above Average | Med | **[…]()** | **[…]** | 
- | 163 | 1873. Calculate Special Bonus | Easy | **[…]()** | **[…]** | 
- | 164 | 1875. Group Employees of the Same Salary | Med | **[…]()** | **[…]** | 
- | 165 | 1890. The Latest Login in 2020 | Easy | **[…]()** | **[…]** | 
- | 166 | 1892. Page Recommendations II | Hard | **[…]()** | **[…]** | 
+ | 155 | 1809. Ad-Free Sessions | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1809.%20Ad-Free%20Sessions%20(Easy).ipynb)** | **[…]** | 
+ | 156 | 1811. Find Interview Candidates | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1811.%20Find%20Interview%20Candidates%20(Medium).ipynb)** | **[…]** | 
+ | 157 | 1821. Find Customers With Positive Revenue this Year | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1821.%20Find%20Customers%20With%20Positive%20Revenue%20this%20Year%20(Easy).ipynb)** | **[…]** | 
+ | 158 | 1831. Maximum Transaction Each Day | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1831.%20Maximum%20Transaction%20Each%20Day%20(Medium).ipynb)** | **[…]** | 
+ | 159 | 1841. League Statistics | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1841.%20League%20Statistics%20(Medium).ipynb)** | **[…]** | 
+ | 160 | 1843. Suspicious Bank Accounts | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1843.%20Suspicious%20Bank%20Accounts%20(Medium).ipynb)** | **[…]** | 
+ | 161 | 1853. Convert Date Format | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1853.%20Convert%20Date%20Format%20(Easy).ipynb)** | **[…]** | 
+ | 162 | 1867. Orders With Maximum Quantity Above Average | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1867.%20Orders%20With%20Maximum%20Quantity%20Above%20Average%20(Medium).ipynb)** | **[…]** | 
+ | 163 | 1873. Calculate Special Bonus | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1873.%20Calculate%20Special%20Bonus%20(Easy).ipynb)** | **[…]** | 
+ | 164 | 1875. Group Employees of the Same Salary | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1875.%20Group%20Employees%20of%20the%20Same%20Salary%20(Medium).ipynb)** | **[…]** | 
+ | 165 | 1890. The Latest Login in 2020 | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1890.%20The%20Latest%20Login%20in%202020%20(Easy).ipynb)** | **[…]** | 
+ | 166 | 1892. Page Recommendations II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1892.%20Page%20Recommendations%20II%20(Hard).ipynb)** | **[…]** | 
  | 167 | 1907. Count Salary Categories | Med | **[…]()** | **[…]** | 
  | 168 | 1917. Leetcodify Friends Recommendations | Hard | **[…]()** | **[…]** | 
  | 169 | 1919. Leetcodify Similar Friends | Hard | **[…]()** | **[…]** | 
