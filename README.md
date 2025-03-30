@@ -191,18 +191,18 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 164 | 1875. Group Employees of the Same Salary | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1875.%20Group%20Employees%20of%20the%20Same%20Salary%20(Medium).ipynb)** | **[…]** | 
  | 165 | 1890. The Latest Login in 2020 | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1890.%20The%20Latest%20Login%20in%202020%20(Easy).ipynb)** | **[…]** | 
  | 166 | 1892. Page Recommendations II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1892.%20Page%20Recommendations%20II%20(Hard).ipynb)** | **[…]** | 
- | 167 | 1907. Count Salary Categories | Med | **[…]()** | **[…]** | 
- | 168 | 1917. Leetcodify Friends Recommendations | Hard | **[…]()** | **[…]** | 
- | 169 | 1919. Leetcodify Similar Friends | Hard | **[…]()** | **[…]** | 
- | 170 | 1934. Confirmation Rate | Med | **[…]()** | **[…]** | 
- | 171 | 1939. Users That Actively Request Confirmation Messages | Easy | **[…]()** | **[…]** | 
- | 172 | 1949. Strong Friendship | Med | **[…]()** | **[…]** | 
- | 173 | 1951. All the Pairs With the Maximum Number of Common Followers | Med | **[…]()** | **[…]** | 
- | 174 | 1965. Employees With Missing Information | Easy | **[…]()** | **[…]** | 
- | 175 | 1972. First and Last Call On the Same Day | Hard | **[…]()** | **[…]** | 
- | 176 | 1978. Employees Whose Manager Left the Company | Easy | **[…]()** | **[…]** | 
- | 177 | 1988. Find Cutoff Score for Each School | Med | **[…]()** | **[…]** | 
- | 178 | 1990. Count the Number of Experiments | Med | **[…]()** | **[…]** | 
+ | 167 | 1907. Count Salary Categories | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1907.%20Count%20Salary%20Categories%20(Medium).ipynb)** | **[…]** | 
+ | 168 | 1917. Leetcodify Friends Recommendations | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1917.%20Leetcodify%20Friends%20Recommendations%20(Hard).ipynb)** | **[…]** | 
+ | 169 | 1919. Leetcodify Similar Friends | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1919.%20Leetcodify%20Similar%20Friends%20(Hard).ipynb)** | **[…]** | 
+ | 170 | 1934. Confirmation Rate | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1934.%20Confirmation%20Rate%20(Medium).ipynb)** | **[…]** | 
+ | 171 | 1939. Users That Actively Request Confirmation Messages | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1939.%20Users%20That%20Actively%20Request%20Confirmation%20Messages%20(Easy).ipynb)** | **[…]** | 
+ | 172 | 1949. Strong Friendship | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1949.%20Strong%20Friendship%20(Medium).ipynb)** | **[…]** | 
+ | 173 | 1951. All the Pairs With the Maximum Number of Common Followers | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1951.%20All%20the%20Pairs%20With%20the%20Maximum%20Number%20of%20Common%20Followers%20(Medium).ipynb)** | **[…]** | 
+ | 174 | 1965. Employees With Missing Information | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1965.%20Employees%20With%20Missing%20Information%20(Easy).ipynb)** | **[…]** | 
+ | 175 | 1972. First and Last Call On the Same Day | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1972.%20First%20and%20Last%20Call%20On%20the%20Same%20Day%20(Hard).ipynb)** | **[…]** | 
+ | 176 | 1978. Employees Whose Manager Left the Company | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company%20(Easy).ipynb)** | **[…]** | 
+ | 177 | 1988. Find Cutoff Score for Each School | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1988.%20Find%20Cutoff%20Score%20for%20Each%20School%20(Medium).ipynb)** | **[…]** | 
+ | 178 | 1990. Count the Number of Experiments | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1990.%20Count%20the%20Number%20of%20Experiments%20(Medium).ipynb)** | **[…]** | 
  | 179 | 2004. The Number of Seniors and Juniors to Join the Company | Hard | **[…]()** | **[…]** | 
  | 180 | 2010. The Number of Seniors and Juniors to Join the Company II | Hard | **[…]()** | **[…]** | 
  | 181 | 2020. Number of Accounts That Did Not Stream | Med | **[…]()** | **[…]** | 
