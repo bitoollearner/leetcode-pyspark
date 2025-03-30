@@ -31,6 +31,74 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 - **GitHub Repository Access:**
    - Access to your GitHub repository containing solutions to LeetCode SQL questions. Users should be able to clone the repository, review the solutions, and potentially contribute if allowed.
 
+## setting up **Databricks Premium** and **Databricks Community Edition** to work with PySpark.
+
+## **1. Setting up Databricks Premium (Paid Version)**
+Databricks Premium is a paid plan that offers advanced features such as higher compute power, security options, and integrations.
+
+### **Step 1: Sign Up for Databricks**
+1. Go to [Databricks website](https://databricks.com/).
+2. Click **"Start your free trial"** (for a trial) or go to **"Sign In"** if you have an account.
+3. Choose **"AWS", "Azure", or "GCP"** as your cloud provider.
+4. Follow the registration process, providing details like your email, company, and cloud provider credentials.
+
+### **Step 2: Create a Databricks Workspace**
+1. In the cloud provider console (AWS, Azure, or GCP), create a Databricks workspace.
+2. Select the **Premium plan** during setup.
+3. Configure networking and security settings as required.
+4. Once created, launch the workspace from the cloud console.
+
+### **Step 3: Create a Cluster**
+1. Inside the Databricks workspace, go to **Compute**.
+2. Click **Create Cluster**.
+3. Choose a cluster name and select a runtime version (latest recommended).
+4. Select the number of workers (scale as needed).
+5. Click **Create Cluster**.
+
+### **Step 4: Create a Notebook**
+1. Navigate to **Workspace > Users > Your Name**.
+2. Click **Create > Notebook**.
+3. Name the notebook and select **Python** as the language.
+4. Attach it to your running cluster.
+
+### **Step 5: Run PySpark Code**
+You can now run PySpark code in the notebook
+
+## **2. Setting up Databricks Community Edition (Free Version)**
+Databricks Community Edition is a free, limited version ideal for learning PySpark.
+
+### **Step 1: Sign Up for Community Edition**
+1. Go to [Databricks Community Edition Signup](https://community.cloud.databricks.com/).
+2. Enter your email and complete the registration.
+3. Check your email for the verification link and activate your account.
+4. Log in to your Databricks Community workspace.
+
+### **Step 2: Create a Cluster**
+1. Click on **Compute** in the left panel.
+2. Click **Create Cluster**.
+3. Name your cluster.
+4. Choose the latest runtime version.
+5. Click **Create Cluster** (Community Edition supports only small clusters).
+
+### **Step 3: Create a Notebook**
+1. Go to **Workspace > Users > Your Name**.
+2. Click **Create > Notebook**.
+3. Name the notebook and select **Python**.
+4. Attach it to the running cluster.
+
+### **Step 4: Run PySpark Code**
+Use the same PySpark commands as shown in the Premium setup.
+---
+
+## **Key Differences Between Premium and Community Edition**
+| Feature | Databricks Premium | Databricks Community Edition |
+|---------|-------------------|---------------------------|
+| Price | Paid | Free |
+| Cloud Providers | AWS, Azure, GCP | Databricks Cloud |
+| Cluster Scaling | Scalable | Limited (Single Node) |
+| Security Features | Advanced | Basic |
+| Collaboration | Multi-user | Single-user |
+
 ## LeetCode SQL Questions
 
 | S.No | Questions                                          | Difficulty | Unsolved | Solved |
