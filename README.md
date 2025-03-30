@@ -95,6 +95,16 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 > **Note:**  
 > The Databricks Community Edition will be more than adequate for this activity.
 
+**🚀 Support This Project! ⭐**  
+Hey everyone! 👋  
+I've created this GitHub repository to help the community solve **LeetCode SQL questions using PySpark**. If you find this project helpful, please consider **giving it a star ⭐** and sharing it with other learners who might benefit from it!  
+
+Your support will help grow this resource and make it even better for everyone. Let’s learn and improve together! 🚀  
+
+🔗 **[LeetCode SQL Questions-(PySpark Solution)](https://github.com/bitoollearner/leetcode-pyspark/edit/main/README.md)**  
+
+Happy coding! 💻🔥  
+
 
 ## LeetCode SQL Questions
 
