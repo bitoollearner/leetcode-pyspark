@@ -22,6 +22,7 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
 > All questions and problem statements belong to **[LeetCode](https://leetcode.com/)**. This notebook is solely for educational purposes, and all credit and ownership of the questions remain with **[LeetCode](https://leetcode.com/)**. For any query reach out at **info.bilearner@gmail.com**.
 
 ### Prerequisites
+
 - **Databricks Account:**
   - You need access to a Databricks account. Databricks provides a collaborative environment for big data analytics, including support for PySpark, which is crucial for running your solutions.
 - **Basic Knowledge of PySpark:**
@@ -30,7 +31,6 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
    - Basic knowledge of SQL is required to understand and write SQL queries within the PySpark framework. This includes understanding SQL syntax, querying databases, and manipulating data.
 - **GitHub Repository Access:**
    - Access to your GitHub repository containing solutions to LeetCode SQL questions. Users should be able to clone the repository, review the solutions, and potentially contribute if allowed.
-
 
 ## LeetCode SQL Questions
 
