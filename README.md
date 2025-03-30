@@ -167,18 +167,18 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 140 | 1683. Invalid Tweets | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1683.%20Invalid%20Tweets%20(Easy).ipynb)** | **[…]** | 
  | 141 | 1693. Daily Leads and Partners | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1693.%20Daily%20Leads%20and%20Partners%20(Easy).ipynb)** | **[…]** | 
  | 142 | 1699. Number of Calls Between Two Persons | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1699.%20Number%20of%20Calls%20Between%20Two%20Persons%20(Medium).ipynb)** | **[…]** | 
- | 143 | 1709. Biggest Window Between Visits | Med | **[…]()** | **[…]** | 
- | 144 | 1715. Count Apples and Oranges | Med | **[…]()** | **[…]** | 
- | 145 | 1729. Find Followers Count | Easy | **[…]()** | **[…]** | 
- | 146 | 1731. The Number of Employees Which Report to Each Employee | Easy | **[…]()** | **[…]** | 
- | 147 | 1741. Find Total Time Spent by Each Employee | Easy | **[…]()** | **[…]** | 
- | 148 | 1747. Leetflex Banned Accounts | Med | **[…]()** | **[…]** | 
- | 149 | 1757. Recyclable and Low Fat Products | Easy | **[…]()** | **[…]** | 
- | 150 | 1767. Find the Subtasks That Did Not Execute | Hard | **[…]()** | **[…]** | 
- | 151 | 1777. Product's Price for Each Store | Easy | **[…]()** | **[…]** | 
- | 152 | 1783. Grand Slam Titles | Med | **[…]()** | **[…]** | 
- | 153 | 1789. Primary Department for Each Employee | Easy | **[…]()** | **[…]** | 
- | 154 | 1795. Rearrange Products Table | Easy | **[…]()** | **[…]** | 
+ | 143 | 1709. Biggest Window Between Visits | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1709.%20Biggest%20Window%20Between%20Visits%20(Medium).ipynb)** | **[…]** | 
+ | 144 | 1715. Count Apples and Oranges | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1715.%20Count%20Apples%20and%20Oranges%20(Medium).ipynb)** | **[…]** | 
+ | 145 | 1729. Find Followers Count | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1729.%20Find%20Followers%20Count%20(Easy).ipynb)** | **[…]** | 
+ | 146 | 1731. The Number of Employees Which Report to Each Employee | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee%20(Easy).ipynb)** | **[…]** | 
+ | 147 | 1741. Find Total Time Spent by Each Employee | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee%20(Easy).ipynb)** | **[…]** | 
+ | 148 | 1747. Leetflex Banned Accounts | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1747.%20Leetflex%20Banned%20Accounts%20(Medium).ipynb)** | **[…]** | 
+ | 149 | 1757. Recyclable and Low Fat Products | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1757.%20Recyclable%20and%20Low%20Fat%20Products%20(Easy).ipynb)** | **[…]** | 
+ | 150 | 1767. Find the Subtasks That Did Not Execute | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1767.%20Find%20the%20Subtasks%20That%20Did%20Not%20Execute%20(Hard).ipynb)** | **[…]** | 
+ | 151 | 1777. Product's Price for Each Store | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1777.%20Product's%20Price%20for%20Each%20Store%20(Easy).ipynb)** | **[…]** | 
+ | 152 | 1783. Grand Slam Titles | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1783.%20Grand%20Slam%20Titles%20(Medium).ipynb)** | **[…]** | 
+ | 153 | 1789. Primary Department for Each Employee | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1789.%20Primary%20Department%20for%20Each%20Employee%20(Easy).ipynb)** | **[…]** | 
+ | 154 | 1795. Rearrange Products Table | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/1795.%20Rearrange%20Products%20Table%20(Easy).ipynb)** | **[…]** | 
  | 155 | 1809. Ad-Free Sessions | Easy | **[…]()** | **[…]** | 
  | 156 | 1811. Find Interview Candidates | Med | **[…]()** | **[…]** | 
  | 157 | 1821. Find Customers With Positive Revenue this Year | Easy | **[…]()** | **[…]** | 
