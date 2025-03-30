@@ -61,9 +61,6 @@ Databricks Premium is a paid plan that offers advanced features such as higher c
 3. Name the notebook and select **Python** as the language.
 4. Attach it to your running cluster.
 
-### **Step 5: Run PySpark Code**
-You can now run PySpark code in the notebook
-
 ## **2. Setting up Databricks Community Edition (Free Version)**
 Databricks Community Edition is a free, limited version ideal for learning PySpark.
 
@@ -86,11 +83,8 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 3. Name the notebook and select **Python**.
 4. Attach it to the running cluster.
 
-### **Step 4: Run PySpark Code**
-Use the same PySpark commands as shown in the Premium setup.
----
-
 ## **Key Differences Between Premium and Community Edition**
+
 | Feature | Databricks Premium | Databricks Community Edition |
 |---------|-------------------|---------------------------|
 | Price | Paid | Free |
