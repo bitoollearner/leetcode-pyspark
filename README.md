@@ -241,15 +241,15 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 214 | 2377. Sort the Olympic Table | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2377.%20Sort%20the%20Olympic%20Table%20(Easy).ipynb)** | **[…]** | 
  | 215 | 2388. Change Null Values in a Table to the Previous Value | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2388.%20Change%20Null%20Values%20in%20a%20Table%20to%20the%20Previous%20Value%20(Medium).ipynb)** | **[…]** | 
  | 216 | 2394. Employees With Deductions | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2394.%20Employees%20With%20Deductions%20(Medium).ipynb)** | **[…]** | 
- | 217 | 2474. Customers With Strictly Increasing Purchases | Hard | **[…]()** | **[…]** | 
- | 218 | 2480. Form a Chemical Bond | Easy | **[…]()** | **[…]** | 
- | 219 | 2494. Merge Overlapping Events in the Same Hall | Hard | **[…]()** | **[…]** | 
- | 220 | 2504. Concatenate the Name and the Profession | Easy | **[…]()** | **[…]** | 
- | 221 | 2668. Find Latest Salaries | Easy | **[…]()** | **[…]** | 
- | 222 | 2669. Count Artist Occurrences On Spotify Ranking List | Easy | **[…]()** | **[…]** | 
- | 223 | 2686. Immediate Food Delivery III | Med | **[…]()** | **[…]** | 
- | 224 | 2687. Bikes Last Time Used | Easy | **[…]()** | **[…]** | 
- | 225 | 2688. Find Active Users | Med | **[…]()** | **[…]** | 
+ | 217 | 2474. Customers With Strictly Increasing Purchases | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2474.%20Customers%20With%20Strictly%20Increasing%20Purchases%20(Hard).ipynb)** | **[…]** | 
+ | 218 | 2480. Form a Chemical Bond | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2480.%20Form%20a%20Chemical%20Bond%20(Easy).ipynb)** | **[…]** | 
+ | 219 | 2494. Merge Overlapping Events in the Same Hall | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2494.%20Merge%20Overlapping%20Events%20in%20the%20Same%20Hall%20(Hard).ipynb)** | **[…]** | 
+ | 220 | 2504. Concatenate the Name and the Profession | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2504.%20Concatenate%20the%20Name%20and%20the%20Profession%20(Easy).ipynb)** | **[…]** | 
+ | 221 | 2668. Find Latest Salaries | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2668.%20Find%20Latest%20Salaries%20(Easy).ipynb)** | **[…]** | 
+ | 222 | 2669. Count Artist Occurrences On Spotify Ranking List | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2669.%20Count%20Artist%20Occurrences%20On%20Spotify%20Ranking%20List%20(Easy).ipynb)** | **[…]** | 
+ | 223 | 2686. Immediate Food Delivery III | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2686.%20Immediate%20Food%20Delivery%20III%20(Medium).ipynb)** | **[…]** | 
+ | 224 | 2687. Bikes Last Time Used | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2687.%20Bikes%20Last%20Time%20Used%20(Easy).ipynb)** | **[…]** | 
+ | 225 | 2688. Find Active Users | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2688.%20Find%20Active%20Users%20(Medium).ipynb)** | **[…]** | 
  | 226 | 2701. Consecutive Transactions with Increasing Amounts | Hard | **[…]()** | **[…]** | 
  | 227 | 2720. Popularity Percentage | Hard | **[…]()** | **[…]** | 
  | 228 | 2738. Count Occurrences in Text | Med | **[…]()** | **[…]** | 
