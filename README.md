@@ -325,8 +325,3 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 298 | 3451. Find Invalid IP Addresses | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3451.%20Find%20Invalid%20IP%20Addresses%20(Hard).ipynb)** | **[…]** |
 | 299 | 3465. Find Products with Valid Serial Numbers | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers%20(Easy).ipynb)** | **[…]** |
 | 300 | 3475. DNA Pattern Recognition | Medium | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3475.%20DNA%20Pattern%20Recognition%20(Medium).ipynb)** | **[…]** |
-
-
- 
- | 299 | 3465. Find Products with Valid Serial Numbers | Easy | **[…]()** | **[…]** | 
- | 300 | 3475. DNA Pattern Recognition | Med | **[…]()** | **[…]** | 
