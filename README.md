@@ -275,17 +275,17 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 248 | 3050. Pizza Toppings Cost Analysis | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3050.%20Pizza%20Toppings%20Cost%20Analysis%20(Medium).ipynb)** | **[…]** | 
  | 249 | 3051. Find Candidates for Data Scientist Position | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3051.%20Find%20Candidates%20for%20Data%20Scientist%20Position%20(Easy).ipynb)** | **[…]** | 
  | 250 | 3052. Maximize Items | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3052.%20Maximize%20Items%20(Hard).ipynb)** | **[…]** | 
- | 251 | 3053. Classifying Triangles by Lengths | Easy | **[…]()** | **[…]** | 
- | 252 | 3054. Binary Tree Nodes | Med | **[…]()** | **[…]** | 
- | 253 | 3055. Top Percentile Fraud | Med | **[…]()** | **[…]** | 
- | 254 | 3056. Snaps Analysis | Med | **[…]()** | **[…]** | 
- | 255 | 3057. Employees Project Allocation | Hard | **[…]()** | **[…]** | 
- | 256 | 3058. Friends With No Mutual Friends | Med | **[…]()** | **[…]** | 
- | 257 | 3059. Find All Unique Email Domains | Easy | **[…]()** | **[…]** | 
- | 258 | 3060. User Activities within Time Bounds | Hard | **[…]()** | **[…]** | 
- | 259 | 3061. Calculate Trapping Rain Water | Hard | **[…]()** | **[…]** | 
- | 260 | 3087. Find Trending Hashtags | Med | **[…]()** | **[…]** | 
- | 261 | 3089. Find Bursty Behavior | Med | **[…]()** | **[…]** | 
+ | 251 | 3053. Classifying Triangles by Lengths | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3053.%20Classifying%20Triangles%20by%20Lengths%20(Easy).ipynb)** | **[…]** | 
+ | 252 | 3054. Binary Tree Nodes | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3054.%20Binary%20Tree%20Nodes%20(Medium).ipynb)** | **[…]** | 
+ | 253 | 3055. Top Percentile Fraud | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3055.%20Top%20Percentile%20Fraud%20(Medium).ipynb)** | **[…]** | 
+ | 254 | 3056. Snaps Analysis | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3056.%20Snaps%20Analysis%20(Medium).ipynb)** | **[…]** | 
+ | 255 | 3057. Employees Project Allocation | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3057.%20Employees%20Project%20Allocation%20(Hard).ipynb)** | **[…]** | 
+ | 256 | 3058. Friends With No Mutual Friends | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3058.%20Friends%20With%20No%20Mutual%20Friends%20(Medium).ipynb)** | **[…]** | 
+ | 257 | 3059. Find All Unique Email Domains | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3059.%20Find%20All%20Unique%20Email%20Domains%20(Easy).ipynb)** | **[…]** | 
+ | 258 | 3060. User Activities within Time Bounds | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3060.%20User%20Activities%20within%20Time%20Bounds%20(Hard).ipynb)** | **[…]** | 
+ | 259 | 3061. Calculate Trapping Rain Water | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3061.%20Calculate%20Trapping%20Rain%20Water%20(Hard).ipynb)** | **[…]** | 
+ | 260 | 3087. Find Trending Hashtags | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3087.%20Find%20Trending%20Hashtags%20(Medium).ipynb)** | **[…]** | 
+ | 261 | 3089. Find Bursty Behavior | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3089.%20Find%20Bursty%20Behavior%20(Medium).ipynb)** | **[…]** | 
  | 262 | 3103. Find Trending Hashtags II | Hard | **[…]()** | **[…]** | 
  | 263 | 3118. Friday Purchase III | Med | **[…]()** | **[…]** | 
  | 264 | 3124. Find Longest Calls | Med | **[…]()** | **[…]** | 
