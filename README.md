@@ -213,18 +213,18 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 186 | 2072. The Winner University | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2072.%20The%20Winner%20University%20(Easy).ipynb)** | **[…]** | 
  | 187 | 2082. The Number of Rich Customers | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2082.%20The%20Number%20of%20Rich%20Customers%20(Easy).ipynb)** | **[…]** | 
  | 188 | 2084. Drop Type 1 Orders for Customers With Type 0 Orders | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2084.%20Drop%20Type%201%20Orders%20for%20Customers%20With%20Type%200%20Orders%20(Medium).ipynb)** | **[…]** | 
- | 189 | 2112. The Airport With the Most Traffic | Med | **[…]()** | **[…]** | 
- | 190 | 2118. Build the Equation | Hard | **[…]()** | **[…]** | 
- | 191 | 2142. The Number of Passengers in Each Bus I | Med | **[…]()** | **[…]** | 
- | 192 | 2153. The Number of Passengers in Each Bus II | Hard | **[…]()** | **[…]** | 
- | 193 | 2159. Order Two Columns Independently | Med | **[…]()** | **[…]** | 
- | 194 | 2173. Longest Winning Streak | Hard | **[…]()** | **[…]** | 
- | 195 | 2175. The Change in Global Rankings | Med | **[…]()** | **[…]** | 
- | 196 | 2199. Finding the Topic of Each Post | Hard | **[…]()** | **[…]** | 
- | 197 | 2205. The Number of Users That Are Eligible for Discount | Easy | **[…]()** | **[…]** | 
- | 198 | 2228. Users With Two Purchases Within Seven Days | Med | **[…]()** | **[…]** | 
- | 199 | 2230. The Users That Are Eligible for Discount | Easy | **[…]()** | **[…]** | 
- | 200 | 2238. Number of Times a Driver Was a Passenger | Med | **[…]()** | **[…]** | 
+ | 189 | 2112. The Airport With the Most Traffic | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2112.%20The%20Airport%20With%20the%20Most%20Traffic%20(Medium).ipynb)** | **[…]** | 
+ | 190 | 2118. Build the Equation | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2118.%20Build%20the%20Equation%20(Hard).ipynb)** | **[…]** | 
+ | 191 | 2142. The Number of Passengers in Each Bus I | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2142.%20The%20Number%20of%20Passengers%20in%20Each%20Bus%20I%20(Medium).ipynb)** | **[…]** | 
+ | 192 | 2153. The Number of Passengers in Each Bus II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2153.%20The%20Number%20of%20Passengers%20in%20Each%20Bus%20II%20(Hard).ipynb)** | **[…]** | 
+ | 193 | 2159. Order Two Columns Independently | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2159.%20Order%20Two%20Columns%20Independently%20(Medium).ipynb)** | **[…]** | 
+ | 194 | 2173. Longest Winning Streak | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2173.%20Longest%20Winning%20Streak%20(Hard).ipynb)** | **[…]** | 
+ | 195 | 2175. The Change in Global Rankings | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2175.%20The%20Change%20in%20Global%20Rankings%20(Medium).ipynb)** | **[…]** | 
+ | 196 | 2199. Finding the Topic of Each Post | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2199.%20Finding%20the%20Topic%20of%20Each%20Post%20(Hard).ipynb)** | **[…]** | 
+ | 197 | 2205. The Number of Users That Are Eligible for Discount | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2205.%20The%20Number%20of%20Users%20That%20Are%20Eligible%20for%20Discount%20(Easy).ipynb)** | **[…]** | 
+ | 198 | 2228. Users With Two Purchases Within Seven Days | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2228.%20Users%20With%20Two%20Purchases%20Within%20Seven%20Days%20(Medium).ipynb)** | **[…]** | 
+ | 199 | 2230. The Users That Are Eligible for Discount | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2230.%20The%20Users%20That%20Are%20Eligible%20for%20Discount%20(Easy).ipynb)** | **[…]** | 
+ | 200 | 2238. Number of Times a Driver Was a Passenger | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2238.%20Number%20of%20Times%20a%20Driver%20Was%20a%20Passenger%20(Medium).ipynb)** | **[…]** | 
  | 201 | 2252. Dynamic Pivoting of a Table | Hard | **[…]()** | **[…]** | 
  | 202 | 2253. Dynamic Unpivoting of a Table | Hard | **[…]()** | **[…]** | 
  | 203 | 2292. Products With Three or More Orders in Two Consecutive Years | Med | **[…]()** | **[…]** | 
