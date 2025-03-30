@@ -95,6 +95,7 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 > **Note:**  
 > The Databricks Community Edition will be more than adequate for this activity.
 
+
 ## LeetCode SQL Questions
 
 | S.No | Questions                                          | Difficulty | Unsolved | Solved |
