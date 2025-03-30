@@ -225,22 +225,22 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 198 | 2228. Users With Two Purchases Within Seven Days | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2228.%20Users%20With%20Two%20Purchases%20Within%20Seven%20Days%20(Medium).ipynb)** | **[…]** | 
  | 199 | 2230. The Users That Are Eligible for Discount | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2230.%20The%20Users%20That%20Are%20Eligible%20for%20Discount%20(Easy).ipynb)** | **[…]** | 
  | 200 | 2238. Number of Times a Driver Was a Passenger | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2238.%20Number%20of%20Times%20a%20Driver%20Was%20a%20Passenger%20(Medium).ipynb)** | **[…]** | 
- | 201 | 2252. Dynamic Pivoting of a Table | Hard | **[…]()** | **[…]** | 
- | 202 | 2253. Dynamic Unpivoting of a Table | Hard | **[…]()** | **[…]** | 
- | 203 | 2292. Products With Three or More Orders in Two Consecutive Years | Med | **[…]()** | **[…]** | 
- | 204 | 2298. Tasks Count in the Weekend | Med | **[…]()** | **[…]** | 
- | 205 | 2308. Arrange Table by Gender | Med | **[…]()** | **[…]** | 
- | 206 | 2314. The First Day of the Maximum Recorded Degree in Each City | Med | **[…]()** | **[…]** | 
- | 207 | 2324. Product Sales Analysis IV | Med | **[…]()** | **[…]** | 
- | 208 | 2329. Product Sales Analysis V | Easy | **[…]()** | **[…]** | 
- | 209 | 2339. All the Matches of the League | Easy | **[…]()** | **[…]** | 
- | 210 | 2346. Compute the Rank as a Percentage | Med | **[…]()** | **[…]** | 
- | 211 | 2356. Number of Unique Subjects Taught by Each Teacher | Easy | **[…]()** | **[…]** | 
- | 212 | 2362. Generate the Invoice | Hard | **[…]()** | **[…]** | 
- | 213 | 2372. Calculate the Influence of Each Salesperson | Med | **[…]()** | **[…]** | 
- | 214 | 2377. Sort the Olympic Table | Easy | **[…]()** | **[…]** | 
- | 215 | 2388. Change Null Values in a Table to the Previous Value | Med | **[…]()** | **[…]** | 
- | 216 | 2394. Employees With Deductions | Med | **[…]()** | **[…]** | 
+ | 201 | 2252. Dynamic Pivoting of a Table | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2252.%20Dynamic%20Pivoting%20of%20a%20Table%20(Hard).ipynb)** | **[…]** | 
+ | 202 | 2253. Dynamic Unpivoting of a Table | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2253.%20Dynamic%20Unpivoting%20of%20a%20Table%20(Hard).ipynb)** | **[…]** | 
+ | 203 | 2292. Products With Three or More Orders in Two Consecutive Years | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2292.%20Products%20With%20Three%20or%20More%20Orders%20in%20Two%20Consecutive%20Years%20(Medium).ipynb)** | **[…]** | 
+ | 204 | 2298. Tasks Count in the Weekend | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2298.%20Tasks%20Count%20in%20the%20Weekend%20(Medium).ipynb)** | **[…]** | 
+ | 205 | 2308. Arrange Table by Gender | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2308.%20Arrange%20Table%20by%20Gender%20(Medium).ipynb)** | **[…]** | 
+ | 206 | 2314. The First Day of the Maximum Recorded Degree in Each City | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2314.%20The%20First%20Day%20of%20the%20Maximum%20Recorded%20Degree%20in%20Each%20City%20(Medium).ipynb)** | **[…]** | 
+ | 207 | 2324. Product Sales Analysis IV | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2324.%20Product%20Sales%20Analysis%20IV%20(Medium).ipynb)** | **[…]** | 
+ | 208 | 2329. Product Sales Analysis V | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2329.%20Product%20Sales%20Analysis%20V%20(Easy).ipynb)** | **[…]** | 
+ | 209 | 2339. All the Matches of the League | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2339.%20All%20the%20Matches%20of%20the%20League%20(Easy).ipynb)** | **[…]** | 
+ | 210 | 2346. Compute the Rank as a Percentage | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2346.%20Compute%20the%20Rank%20as%20a%20Percentage%20(Medium).ipynb)** | **[…]** | 
+ | 211 | 2356. Number of Unique Subjects Taught by Each Teacher | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher%20(Easy).ipynb)** | **[…]** | 
+ | 212 | 2362. Generate the Invoice | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2362.%20Generate%20the%20Invoice%20(Hard).ipynb)** | **[…]** | 
+ | 213 | 2372. Calculate the Influence of Each Salesperson | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2372.%20Calculate%20the%20Influence%20of%20Each%20Salesperson%20(Medium).ipynb)** | **[…]** | 
+ | 214 | 2377. Sort the Olympic Table | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2377.%20Sort%20the%20Olympic%20Table%20(Easy).ipynb)** | **[…]** | 
+ | 215 | 2388. Change Null Values in a Table to the Previous Value | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2388.%20Change%20Null%20Values%20in%20a%20Table%20to%20the%20Previous%20Value%20(Medium).ipynb)** | **[…]** | 
+ | 216 | 2394. Employees With Deductions | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/2394.%20Employees%20With%20Deductions%20(Medium).ipynb)** | **[…]** | 
  | 217 | 2474. Customers With Strictly Increasing Purchases | Hard | **[…]()** | **[…]** | 
  | 218 | 2480. Form a Chemical Bond | Easy | **[…]()** | **[…]** | 
  | 219 | 2494. Merge Overlapping Events in the Same Hall | Hard | **[…]()** | **[…]** | 
