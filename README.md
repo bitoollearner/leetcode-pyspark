@@ -401,11 +401,12 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 | 300 | 3475. DNA Pattern Recognition | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3475.%20DNA%20Pattern%20Recognition%20(Medium).ipynb)** | **[…]** |
 | 301 | 3482. Analyze Organization Hierarchy | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)** | **[…]** |
 
+
 **🚀 Support This Project! ⭐**  
 
 Hey everyone! 👋  
 
-I've created this GitHub repository to help the community solve **LeetCode SQL questions using PySpark**. If you find this project helpful, please consider **giving it a star ⭐** and sharing it with other learners who might benefit from it!  
+We've created this GitHub repository to help the community solve **LeetCode SQL questions using PySpark**. If you find this project helpful, please consider **giving it a star ⭐** and sharing it with other learners who might benefit from it!  
 
 Your support will help grow this resource and make it even better for everyone. Let’s learn and improve together! 🚀  
 
