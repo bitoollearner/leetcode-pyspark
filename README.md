@@ -309,19 +309,24 @@ All solutions in this notebook are implemented using **PySpark** to ensure consi
  | 282 | 3268. Find Overlapping Shifts II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3268.%20Find%20Overlapping%20Shifts%20II%20(Hard).ipynb)** | **[…]** | 
  | 283 | 3278. Find Candidates for Data Scientist Position II | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3278.%20Find%20Candidates%20for%20Data%20Scientist%20Position%20II%20(Medium).ipynb)** | **[…]** | 
  | 284 | 3293. Calculate Product Final Price | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3293.%20Calculate%20Product%20Final%20Price%20(Medium).ipynb)** | **[…]** | 
- | 285 | 3308. Find Top Performing Driver | Med | **[…]()** | **[…]** | 
- | 286 | 3322. Premier League Table Ranking III | Med | **[…]()** | **[…]** | 
- | 287 | 3328. Find Cities in Each State II | Med | **[…]()** | **[…]** | 
- | 288 | 3338. Second Highest Salary II | Med | **[…]()** | **[…]** | 
- | 289 | 3358. Books with NULL Ratings | Easy | **[…]()** | **[…]** | 
- | 290 | 3368. First Letter Capitalization | Hard | **[…]()** | **[…]** | 
- | 291 | 3374. First Letter Capitalization II | Hard | **[…]()** | **[…]** | 
- | 292 | 3384. Team Dominance by Pass Success | Hard | **[…]()** | **[…]** | 
- | 293 | 3390. Longest Team Pass Streak | Hard | **[…]()** | **[…]** | 
- | 294 | 3401. Find Circular Gift Exchange Chains | Hard | **[…]()** | **[…]** | 
- | 295 | 3415. Find Products with Three Consecutive Digits | Easy | **[…]()** | **[…]** | 
- | 296 | 3421. Find Students Who Improved | Med | **[…]()** | **[…]** | 
- | 297 | 3436. Find Valid Emails | Easy | **[…]()** | **[…]** | 
- | 298 | 3451. Find Invalid IP Addresses | Hard | **[…]()** | **[…]** | 
+ | 285 | 3308. Find Top Performing Driver | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3308.%20Find%20Top%20Performing%20Driver%20(Medium).ipynb)** | **[…]** | 
+ | 286 | 3322. Premier League Table Ranking III | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3322.%20Premier%20League%20Table%20Ranking%20III%20(Medium).ipynb)** | **[…]** | 
+ | 287 | 3328. Find Cities in Each State II | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3328.%20Find%20Cities%20in%20Each%20State%20II%20(Medium).ipynb)** | **[…]** | 
+ | 288 | 3338. Second Highest Salary II | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3338.%20Second%20Highest%20Salary%20II%20(Medium).ipynb)** | **[…]** | 
+ | 289 | 3358. Books with NULL Ratings | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3358.%20Books%20with%20NULL%20Ratings%20(Easy).ipynb)** | **[…]** | 
+ | 290 | 3368. First Letter Capitalization | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3368.%20First%20Letter%20Capitalization%20(Hard).ipynb)** | **[…]** | 
+ | 291 | 3374. First Letter Capitalization II | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3374.%20First%20Letter%20Capitalization%20II%20(Hard).ipynb)** | **[…]** | 
+ | 292 | 3384. Team Dominance by Pass Success | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3384.%20Team%20Dominance%20by%20Pass%20Success%20(Hard).ipynb)** | **[…]** | 
+ | 293 | 3390. Longest Team Pass Streak | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3390.%20Longest%20Team%20Pass%20Streak%20(Hard).ipynb)** | **[…]** | 
+ | 294 | 3401. Find Circular Gift Exchange Chains | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3401.%20Find%20Circular%20Gift%20Exchange%20Chains%20(Hard).ipynb)** | **[…]** | 
+ | 295 | 3415. Find Products with Three Consecutive Digits | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3415.%20Find%20Products%20with%20Three%20Consecutive%20Digits%20(Easy).ipynb)** | **[…]** | 
+ | 296 | 3421. Find Students Who Improved | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3421.%20Find%20Students%20Who%20Improved%20(Medium).ipynb)** | **[…]** | 
+ | 297 | 3436. Find Valid Emails | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3436.%20Find%20Valid%20Emails%20(Easy).ipynb)** | **[…]** | 
+ | 298 | 3451. Find Invalid IP Addresses | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3451.%20Find%20Invalid%20IP%20Addresses%20(Hard).ipynb)** | **[…]** |
+| 299 | 3465. Find Products with Valid Serial Numbers | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers%20(Easy).ipynb)** | **[…]** |
+| 300 | 3475. DNA Pattern Recognition | Medium | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3475.%20DNA%20Pattern%20Recognition%20(Medium).ipynb)** | **[…]** |
+
+
+ 
  | 299 | 3465. Find Products with Valid Serial Numbers | Easy | **[…]()** | **[…]** | 
  | 300 | 3475. DNA Pattern Recognition | Med | **[…]()** | **[…]** | 
