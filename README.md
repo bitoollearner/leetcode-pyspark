@@ -95,17 +95,6 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 > **Note:**  
 > The Databricks Community Edition will be more than adequate for this activity.
 
-**🚀 Support This Project! ⭐**  
-Hey everyone! 👋  
-I've created this GitHub repository to help the community solve **LeetCode SQL questions using PySpark**. If you find this project helpful, please consider **giving it a star ⭐** and sharing it with other learners who might benefit from it!  
-
-Your support will help grow this resource and make it even better for everyone. Let’s learn and improve together! 🚀  
-
-🔗 **[LeetCode SQL Questions-(PySpark Solution)](https://github.com/bitoollearner/leetcode-pyspark/edit/main/README.md)**  
-
-Happy coding! 💻🔥  
-
-
 ## LeetCode SQL Questions
 
 | S.No | Questions                                          | Difficulty | Unsolved | Solved |
@@ -411,3 +400,15 @@ Happy coding! 💻🔥
 | 299 | 3465. Find Products with Valid Serial Numbers | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers%20(Easy).ipynb)** | **[…]** |
 | 300 | 3475. DNA Pattern Recognition | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3475.%20DNA%20Pattern%20Recognition%20(Medium).ipynb)** | **[…]** |
 | 301 | 3482. Analyze Organization Hierarchy | Hard | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solution/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)** | **[…]** |
+
+**🚀 Support This Project! ⭐**  
+
+Hey everyone! 👋  
+
+I've created this GitHub repository to help the community solve **LeetCode SQL questions using PySpark**. If you find this project helpful, please consider **giving it a star ⭐** and sharing it with other learners who might benefit from it!  
+
+Your support will help grow this resource and make it even better for everyone. Let’s learn and improve together! 🚀  
+
+🔗 **[LeetCode SQL Questions-(PySpark Solution)](https://github.com/bitoollearner/leetcode-pyspark/tree/main)**  
+
+Happy coding! 💻🔥  
