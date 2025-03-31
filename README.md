@@ -99,7 +99,7 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 
 | S.No | Questions                                          | Difficulty | Unsolved | Solved |
 | ---- | -------------------------------------------------- | ---------- | -------- | ------ |
- | 1 | 175. Combine Two Tables | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/175.%20Combine%20Two%20Tables%20(Easy).ipynb)** | **[…]** | 
+ | 1 | 175. Combine Two Tables | Easy | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/175.%20Combine%20Two%20Tables%20(Easy).ipynb)** | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/175.%20Combine%20Two%20Tables%20(Easy).ipynb)** | 
  | 2 | 176. Second Highest Salary | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/176.%20Second%20Highest%20Salary%20(Medium).ipynb)** | **[…]** | 
  | 3 | 177. Nth Highest Salary | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/177.%20Nth%20Highest%20Salary%20(Medium).ipynb)** | **[…]** | 
  | 4 | 178. Rank Scores | Med | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/178.%20Rank%20Scores%20(Medium).ipynb)** | **[…]** | 
