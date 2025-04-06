@@ -92,6 +92,67 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 | Security Features | Advanced | Basic |
 | Collaboration | Multi-user | Single-user |
 
+## **3. Step-by-Step Guide to Importing LeetCode SQL Questions Notebook into Jupyter Notebook**
+
+1. **Clone Your GitHub Repository:**
+   - First, ensure you have Git installed on your local machine. If not, download and install it from [Git's official website](https://git-scm.com/).
+   - Open your terminal (command prompt) and navigate to the directory where you want to clone your repository.
+   - Clone your GitHub repository using the command:
+     ```
+     git clone <repository_url>
+     ```
+   - Replace `<repository_url>` with the URL of your GitHub repository. This will download your repository to your local machine.
+
+2. **Install Required Dependencies:**
+   - Make sure you have Python installed on your machine. It's recommended to use Anaconda or Miniconda to manage your Python environments.
+   - Install Jupyter Notebook and PySpark dependencies if you haven't already:
+     ```
+     pip install jupyter pyspark
+     ```
+
+3. **Launch Jupyter Notebook:**
+   - Navigate to the directory where your Jupyter Notebook files are located. Typically, this would be the root directory of your cloned repository.
+   - Start Jupyter Notebook by running the command:
+     ```
+     jupyter notebook
+     ```
+   - This command will open a new tab in your web browser with the Jupyter Notebook interface.
+
+4. **Open and Run Your Notebook:**
+   - In the Jupyter Notebook interface, navigate to the directory where your notebook file (`*.ipynb`) is located.
+   - Click on the notebook file to open it.
+   - Once the notebook is open, you can run each cell by pressing `Shift + Enter` or using the "Run" button in the toolbar.
+   - Ensure that Spark is correctly initialized and configured in your notebook. You may need to import necessary libraries and set up the Spark session if it's not done automatically.
+
+5. **Verify Spark Installation and Configuration:**
+   - Check if Spark is installed and configured correctly by running a basic Spark operation in one of the notebook cells. For example:
+     ```python
+     from pyspark.sql import SparkSession
+
+     # Initialize Spark session
+     spark = SparkSession.builder \
+                         .appName("MyApp") \
+                         .getOrCreate()
+
+     # Verify Spark session
+     spark
+     ```
+   - If Spark is configured correctly, you should see the Spark session information printed without any errors.
+
+6. **Execute and Test Your Notebook:**
+   - Execute each cell in your notebook to ensure that all code runs as expected.
+   - Validate the results of the LeetCode SQL questions solutions to ensure correctness and functionality with PySpark.
+
+7. **Save Your Work:**
+   - Once you have verified that everything is working correctly, save your notebook with any changes you have made.
+
+### Additional Tips:
+- **Environment Management:** Consider using virtual environments or conda environments to manage dependencies and avoid conflicts between different projects.
+- **Documentation:** It's helpful to include documentation within your notebook, such as explanations of the SQL solutions and any specific configurations required for Spark.
+- **Version Control:** Regularly commit your changes to Git and push them to your GitHub repository to keep a versioned history of your work.
+
+By following these steps, you should be able to successfully import and run your LeetCode SQL questions notebook using PySpark in Jupyter Notebook on your local machine. 
+
 > **Note:**  
 > The Databricks Community Edition will be more than adequate for this activity.
 
