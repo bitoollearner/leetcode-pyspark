@@ -1,5 +1,5 @@
 # LeetCode SQL Questions - PySpark Solutions-(BI)
-This repository is dedicated to Unsolveds for LeetCode SQL questions implemented in PySpark.
+This repository is dedicated to unsolved for LeetCode SQL questions implemented in PySpark.
 
 This notebook contains a collection of SQL-related challenges sourced from **[LeetCode](https://leetcode.com/)**. The primary goal is to enhance SQL skills while leveraging **PySpark**, a powerful framework for large-scale data processing.
 
@@ -19,7 +19,7 @@ For each question, you will find:
 All Unsolveds in this notebook are implemented using **PySpark** to ensure consistency with big data processing practices. The approach utilizes **PySpark’s Python API, DataFrame API, and built-in functions** to solve problems efficiently.
 
 > **Disclaimer:**  
-> All questions and problem statements belong to **[LeetCode](https://leetcode.com/)**. This notebook is solely for educational purposes, and all credit and ownership of the questions remain with **[LeetCode](https://leetcode.com/)**. For any query reach out at **info.bilearner@gmail.com**.
+> All questions and problem statements belong to **[LeetCode](https://leetcode.com/)**. This notebook is solely for educational purposes, and all credit and ownership of the questions remain with **[LeetCode](https://leetcode.com/)**. If you have any questions, please reach out to **info.bilearner@gmail.com**.
 
 ## Prerequisites
 - **Databricks Account:**
@@ -29,7 +29,7 @@ All Unsolveds in this notebook are implemented using **PySpark** to ensure consi
 - **SQL Knowledge:**
    - Basic knowledge of SQL is required to understand and write SQL queries within the PySpark framework. This includes understanding SQL syntax, querying databases, and manipulating data.
 - **GitHub Repository Access:**
-   - Access to your GitHub repository containing Unsolveds to LeetCode SQL questions. Users should be able to clone the repository, review the Unsolveds, and potentially contribute if allowed.
+   - Access to your GitHub repository containing unsolved LeetCode SQL questions. Users should be able to clone the repository, review the Unsolveds, and potentially contribute if allowed.
 
 
 ## **1. Setting up Databricks Premium (Paid Version)**
