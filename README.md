@@ -1,5 +1,5 @@
-# LeetCode SQL Questions - PySpark Solutions-(BI)
-This repository is dedicated to unsolved for LeetCode SQL questions implemented in PySpark.
+# LeetCode SQL Questions - PySpark Solutions-(BI Learner)
+This repository is dedicated to unsolved LeetCode SQL questions implemented in PySpark.
 
 This notebook contains a collection of SQL-related challenges sourced from **[LeetCode](https://leetcode.com/)**. The primary goal is to enhance SQL skills while leveraging **PySpark**, a powerful framework for large-scale data processing.
 
