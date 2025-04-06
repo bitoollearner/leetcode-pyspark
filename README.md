@@ -409,6 +409,6 @@ We've created this GitHub repository to help the community solve **LeetCode SQL 
 
 Your support will help grow this resource and make it even better for everyone. Let’s learn and improve together! 🚀  
 
-🔗 **[LeetCode SQL Questions-(PySpark Unsolved)]([https://github.com/bitoollearner/leetcode-pyspark/tree/main](https://github.com/bitoollearner/leetcode-pyspark/tree/main/Unsolved))**  
+🔗 **[LeetCode SQL Questions-(PySpark Unsolved)](https://github.com/bitoollearner/leetcode-pyspark/tree/main/Unsolved)**  
 
 Happy coding! 💻🔥  
