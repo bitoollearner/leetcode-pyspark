@@ -39,7 +39,7 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 3. Check your email for the verification link and activate your account.
 4. Log in to your Databricks Community workspace.
 
-## **2. Step-by-Step Guide to Importing LeetCode SQL Questions Notebook into Jupyter Notebook**
+### **2. Step-by-Step Guide to Importing LeetCode SQL Questions Notebook into Jupyter Notebook**
 
 1. **Clone Your GitHub Repository:**
    You can clone your GitHub repository directly into Databricks using **Databricks Repos**:
