@@ -32,124 +32,26 @@ All Unsolveds in this notebook are implemented using **PySpark** to ensure consi
    - Access to your GitHub repository containing unsolved LeetCode SQL questions. Users should be able to clone the repository, review the Unsolveds, and potentially contribute if allowed.
 
 
-## **1. Setting up Databricks Premium (Paid Version)**
-Databricks Premium is a paid plan that offers advanced features such as higher compute power, security options, and integrations.
-
-### **Step 1: Sign Up for Databricks**
-1. Go to [Databricks website](https://databricks.com/).
-2. Click **"Start your free trial"** (for a trial) or go to **"Sign In"** if you have an account.
-3. Choose **"AWS", "Azure", or "GCP"** as your cloud provider.
-4. Follow the registration process, providing details like your email, company, and cloud provider credentials.
-
-### **Step 2: Create a Databricks Workspace**
-1. In the cloud provider console (AWS, Azure, or GCP), create a Databricks workspace.
-2. Select the **Premium plan** during setup.
-3. Configure networking and security settings as required.
-4. Once created, launch the workspace from the cloud console.
-
-### **Step 3: Create a Cluster**
-1. Inside the Databricks workspace, go to **Compute**.
-2. Click **Create Cluster**.
-3. Choose a cluster name and select a runtime version (latest recommended).
-4. Select the number of workers (scale as needed).
-5. Click **Create Cluster**.
-
-### **Step 4: Create a Notebook**
-1. Navigate to **Workspace > Users > Your Name**.
-2. Click **Create > Notebook**.
-3. Name the notebook and select **Python** as the language.
-4. Attach it to your running cluster.
-
-## **2. Setting up Databricks Community Edition (Free Version)**
-Databricks Community Edition is a free, limited version ideal for learning PySpark.
-
 ### **Step 1: Sign Up for Community Edition**
+Databricks Community Edition is a free, limited version ideal for learning PySpark.
 1. Go to [Databricks Community Edition Signup](https://community.cloud.databricks.com/).
 2. Enter your email and complete the registration.
 3. Check your email for the verification link and activate your account.
 4. Log in to your Databricks Community workspace.
 
-### **Step 2: Create a Cluster**
-1. Click on **Compute** in the left panel.
-2. Click **Create Cluster**.
-3. Name your cluster.
-4. Choose the latest runtime version.
-5. Click **Create Cluster** (Community Edition supports only small clusters).
-
-### **Step 3: Create a Notebook**
-1. Go to **Workspace > Users > Your Name**.
-2. Click **Create > Notebook**.
-3. Name the notebook and select **Python**.
-4. Attach it to the running cluster.
-
-## **Key Differences Between Premium and Community Edition**
-
-| Feature | Databricks Premium | Databricks Community Edition |
-|---------|-------------------|---------------------------|
-| Price | Paid | Free |
-| Cloud Providers | AWS, Azure, GCP | Databricks Cloud |
-| Cluster Scaling | Scalable | Limited (Single Node) |
-| Security Features | Advanced | Basic |
-| Collaboration | Multi-user | Single-user |
-
 ## **3. Step-by-Step Guide to Importing LeetCode SQL Questions Notebook into Jupyter Notebook**
 
 1. **Clone Your GitHub Repository:**
-   - First, ensure you have Git installed on your local machine. If not, download and install it from [Git's official website](https://git-scm.com/).
-   - Open your terminal (command prompt) and navigate to the directory where you want to clone your repository.
-   - Clone your GitHub repository using the command:
+   You can clone your GitHub repository directly into Databricks using **Databricks Repos**:
+  1. Log in to your Databricks workspace.
+  2. In the left sidebar, click **Repos**.
+  3. Click **Add Repo** → **Add Git Repository**.
+  4. Paste the repository URL from GitHub:
      ```
-     git clone <repository_url>
+     [git clone <repository_url>](https://github.com/<username>/<repository-name>.git)
      ```
-   - Replace `<repository_url>` with the URL of your GitHub repository. This will download your repository to your local machine.
-
-2. **Install Required Dependencies:**
-   - Make sure you have Python installed on your machine. It's recommended to use Anaconda or Miniconda to manage your Python environments.
-   - Install Jupyter Notebook and PySpark dependencies if you haven't already:
-     ```
-     pip install jupyter pyspark
-     ```
-
-3. **Launch Jupyter Notebook:**
-   - Navigate to the directory where your Jupyter Notebook files are located. Typically, this would be the root directory of your cloned repository.
-   - Start Jupyter Notebook by running the command:
-     ```
-     jupyter notebook
-     ```
-   - This command will open a new tab in your web browser with the Jupyter Notebook interface.
-
-4. **Open and Run Your Notebook:**
-   - In the Jupyter Notebook interface, navigate to the directory where your notebook file (`*.ipynb`) is located.
-   - Click on the notebook file to open it.
-   - Once the notebook is open, you can run each cell by pressing `Shift + Enter` or using the "Run" button in the toolbar.
-   - Ensure that Spark is correctly initialized and configured in your notebook. You may need to import necessary libraries and set up the Spark session if it's not done automatically.
-
-5. **Verify Spark Installation and Configuration:**
-   - Check if Spark is installed and configured correctly by running a basic Spark operation in one of the notebook cells. For example:
-     ```python
-     from pyspark.sql import SparkSession
-
-     # Initialize Spark session
-     spark = SparkSession.builder \
-                         .appName("MyApp") \
-                         .getOrCreate()
-
-     # Verify Spark session
-     spark
-     ```
-   - If Spark is configured correctly, you should see the Spark session information printed without any errors.
-
-6. **Execute and Test Your Notebook:**
-   - Execute each cell in your notebook to ensure that all code runs as expected.
-   - Validate the results of the LeetCode SQL questions solutions to ensure correctness and functionality with PySpark.
-
-7. **Save Your Work:**
-   - Once you have verified that everything is working correctly, save your notebook with any changes you have made.
-
-### Additional Tips:
-- **Environment Management:** Consider using virtual environments or conda environments to manage dependencies and avoid conflicts between different projects.
-- **Documentation:** It's helpful to include documentation within your notebook, such as explanations of the SQL solutions and any specific configurations required for Spark.
-- **Version Control:** Regularly commit your changes to Git and push them to your GitHub repository to keep a versioned history of your work.
+  5. Click Create.
+     > Databricks will now clone your GitHub repository into your workspace.
 
 By following these steps, you should be able to successfully import and run your LeetCode SQL questions notebook using PySpark in Jupyter Notebook on your local machine. 
 
