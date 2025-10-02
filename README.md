@@ -19,7 +19,7 @@ For each question, you will find:
 All Unsolveds in this notebook are implemented using **PySpark** to ensure consistency with big data processing practices. The approach utilizes **PySpark’s Python API, DataFrame API, and built-in functions** to solve problems efficiently.
 
 > **Disclaimer:**  
-> All questions and problem statements belong to **[LeetCode](https://leetcode.com/)**. This notebook is solely for educational purposes, and all credit and ownership of the questions remain with **[LeetCode](https://leetcode.com/)**. If you have any questions, please reach out to **info.bilearner@gmail.com**.
+> All questions and problem statements belong to **[LeetCode](https://leetcode.com/)**. This notebook is solely for educational purposes, and all credit and ownership of the questions remain with **[LeetCode](https://leetcode.com/)**. If you have any questions, please reach out to **info@bilearner.com**.
 
 ## Prerequisites
 - **Databricks Account:**
