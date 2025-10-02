@@ -6,7 +6,7 @@ This notebook contains a collection of SQL-related challenges sourced from **[Le
 For each question, you will find:
 - A brief problem description
 - The relevant dataset or schema context
-- A step-by-step Unsolved implemented using PySpark DataFrames and SQL functions
+- A step-by-step Unsolved implementation using PySpark DataFrames and SQL functions
 
 ### **Question Breakdown by Difficulty:**
 | Difficulty | Count |
@@ -16,7 +16,7 @@ For each question, you will find:
 | Hard       | 60    |
 | **Total**  | 301   |
 
-All Unsolveds in this notebook are implemented using **PySpark** to ensure consistency with big data processing practices. The approach utilizes **PySpark’s Python API, DataFrame API, and built-in functions** to solve problems efficiently.
+All unsolved problems in this notebook are implemented using **PySpark** to ensure consistency with big data processing practices. The approach utilizes **PySpark’s Python API, DataFrame API, and built-in functions** to solve problems efficiently.
 
 > **Disclaimer:**  
 > All questions and problem statements belong to **[LeetCode](https://leetcode.com/)**. This notebook is solely for educational purposes, and all credit and ownership of the questions remain with **[LeetCode](https://leetcode.com/)**. If you have any questions, please reach out to **info@bilearner.com**.
@@ -39,7 +39,7 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 3. Check your email for the verification link and activate your account.
 4. Log in to your Databricks Community workspace.
 
-## **3. Step-by-Step Guide to Importing LeetCode SQL Questions Notebook into Jupyter Notebook**
+## **2. Step-by-Step Guide to Importing LeetCode SQL Questions Notebook into Jupyter Notebook**
 
 1. **Clone Your GitHub Repository:**
    You can clone your GitHub repository directly into Databricks using **Databricks Repos**:
@@ -50,6 +50,7 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
      ```
      [git clone <repository_url>](https://github.com/<username>/<repository-name>.git)
      ```
+
   5. Click Create.
      > Databricks will now clone your GitHub repository into your workspace.
 
