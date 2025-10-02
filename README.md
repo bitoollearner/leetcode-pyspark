@@ -42,17 +42,17 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 ### **2. Step-by-Step Guide to Importing LeetCode SQL Questions Notebook into Jupyter Notebook**
 
 1. **Clone Your GitHub Repository:**
-   You can clone your GitHub repository directly into Databricks using **Databricks Repos**:
-  1. Log in to your Databricks workspace.
-  2. In the left sidebar, click **Repos**.
-  3. Click **Add Repo** → **Add Git Repository**.
-  4. Paste the repository URL from GitHub:
-     ```
-     [git clone <repository_url>](https://github.com/<username>/<repository-name>.git)
-     ```
+You can clone your GitHub repository directly into Databricks using **Databricks Repos**:
+1. Log in to your Databricks workspace.
+2. In the left sidebar, click **Repos**.
+3. Click **Add Repo** → **Add Git Repository**.
+4. Paste the repository URL from GitHub:
+   ```
+   [git clone <repository_url>](https://github.com/<username>/<repository-name>.git)
+   ```
 
-  5. Click Create.
-     > Databricks will now clone your GitHub repository into your workspace.
+5. Click Create.
+   > Databricks will now clone your GitHub repository into your workspace.
 
 By following these steps, you should be able to successfully import and run your LeetCode SQL questions notebook using PySpark in Jupyter Notebook on your local machine. 
 
