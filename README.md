@@ -53,7 +53,7 @@ Databricks Community Edition is a free, limited version ideal for learning PySpa
 6. Click Create.
    > Databricks will now clone your GitHub repository into your workspace.
 
-By following these steps, you should be able to successfully import and run your LeetCode SQL questions notebook using PySpark in Jupyter Notebook on your local machine. 
+By following these steps, you should be able to successfully import and run your LeetCode SQL questions notebook using PySpark in Jupyter Notebook on your Databricks workspace. 
 
 > **Note:**  
 > The Databricks Community Edition will be more than adequate for this activity.
