@@ -11,10 +11,10 @@ For each question, you will find:
 ### **Question Breakdown by Difficulty:**
 | Difficulty | Count |
 |------------|-------|
-| Easy       | 111   |
-| Medium     | 130   |
-| Hard       | 60    |
-| **Total**  | 301   |
+| Easy       | 112   |
+| Medium     | 137   |
+| Hard       | 61    |
+| **Total**  | 310   |
 
 All unsolved problems in this notebook are implemented using **PySpark** to ensure consistency with big data processing practices. The approach utilizes **PySpark’s Python API, DataFrame API, and built-in functions** to solve problems efficiently.
 
@@ -363,6 +363,16 @@ By following these steps, you should be able to successfully import and run your
  | 299 |  3465. Find Products with Valid Serial Numbers  |  Easy  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers%20(Easy).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3465.%20Find%20Products%20with%20Valid%20Serial%20Numbers%20(Easy)-(Solved).ipynb)** | 
  | 300 |  3475. DNA Pattern Recognition  | Medium |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3475.%20DNA%20Pattern%20Recognition%20(Medium).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3475.%20DNA%20Pattern%20Recognition%20(Medium)-(Solved).ipynb)** | 
  | 301 |  3482. Analyze Organization Hierarchy  |  Hard  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard)-(Solved).ipynb)** | 
+| 302 |  3497. Analyze Subscription Conversion |  Medium  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard)-(Solved).ipynb)** |
+| 303 |  3521. Find Product Recommendation Pairs |  Medium  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard)-(Solved).ipynb)** |
+| 304 |  3554. Find Category Recommendation Pairs |  Hard  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard)-(Solved).ipynb)** |
+| 305 |  3564. Seasonal Sales Analysis |  Medium  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard)-(Solved).ipynb)** |
+| 306 |  3570. Find Books with No Available Copies |  Easy  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard)-(Solved).ipynb)** |
+| 307 |  3580. Find Consistently Improving Employees |  Medium  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard)-(Solved).ipynb)** |
+| 308 |  3586. Find COVID Recovery Patients |  Medium  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard)-(Solved).ipynb)** |
+| 309 |  3601. Find Drivers with Improved Fuel Efficiency |  Medium  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard)-(Solved).ipynb)** |
+| 310 |  3611. Find Overbooked Employees |  Medium  |  **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Unsolved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard).ipynb)**  | **[…](https://github.com/bitoollearner/leetcode-pyspark/blob/main/Solved/3482.%20Analyze%20Organization%20Hierarchy%20(Hard)-(Solved).ipynb)** |
+
 
 **🚀 Support This Project! ⭐**  
 
